@@ -9,9 +9,7 @@ function ExampleComponent({ children }) {
   return (
     <div>
       <p>
-        This is an example page. Refresh the page or copy/paste the url to
-        test out the redirect functionality (this same page should load
-        after the redirect).
+        This is example (modified to test.).
       </p>
       {children ||
         <div><Link to="/example/two-deep?field1=foo&field2=bar#boom!">
