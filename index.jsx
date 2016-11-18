@@ -11,14 +11,14 @@ import ExampleTwoDeepComponent from './components/ExampleTwoDeepComponent';
 
 
 const routes = (
-  <Route path="/HiroIshikawa.github.io-aihub/" mapMenuTitle="Home" component={App}>
+  <Route path="HiroIshikawa.github.io-aihub" mapMenuTitle="Home" component={App}>
     <IndexRoute component={Home} />
 
-    <Route path="/HiroIshikawa.github.io-aihub/example" mapMenuTitle="Example" component={ExampleComponent}>
+    <Route path="HiroIshikawa.github.io-aihub/example" mapMenuTitle="Example" component={ExampleComponent}>
       <Route path="two-deep" mapMenuTitle="Two Deep" component={ExampleTwoDeepComponent} />
     </Route>
 
-    <Route path="/HiroIshikawa.github.io-aihub/*" mapMenuTitle="Page Not Found" component={PageNotFound} />
+    <Route path="HiroIshikawa.github.io-aihub/*" mapMenuTitle="Page Not Found" component={PageNotFound} />
   </Route>
 );
 
