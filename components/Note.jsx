@@ -1,20 +1,15 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
 import { Link } from 'react-router';
 
-const propTypes = {
-  children: PropTypes.element,
-};
-
-function NoteComponent({ children }) {
+function Note() {
   return (
     <div>
       <p>
         This is test for ML Note.
       </p>
+    <div><Link to="/HiroIshikawa.github.io-aihub/Home">Home</Link></div>
     </div>
   );
 }
 
-NoteComponent.propTypes = propTypes;
-
-export default NoteComponent;
+export default Note;

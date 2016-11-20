@@ -8,13 +8,13 @@ import Home from './components/Home';
 import PageNotFound from './components/PageNotFound';
 import ExampleComponent from './components/ExampleComponent';
 import ExampleTwoDeepComponent from './components/ExampleTwoDeepComponent';
-import NoteComponent from './components/Note';
+import Note from './components/Note';
 
 const routes = (
   <Route path="/HiroIshikawa.github.io-aihub" mapMenuTitle="Home" component={App}>
     <IndexRoute component={Home} />
 
-    <Route path="/HiroIshikawa.github.io-aihub/note" mapMenuTitle="Note" component={NoteComponent} >
+    <Route path="/HiroIshikawa.github.io-aihub/note" mapMenuTitle="Note" component={Note} >
     </Route>
 
     <Route path="/HiroIshikawa.github.io-aihub/example" mapMenuTitle="Example" component={ExampleComponent}>
