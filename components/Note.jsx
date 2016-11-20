@@ -168,6 +168,6 @@ function NoteComponent({ children }) {
   );
 }
 
-ExampleComponent.propTypes = propTypes;
+NoteComponent.propTypes = propTypes;
 
-export default ExampleComponent;
+export default NoteComponent;
