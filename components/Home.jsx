@@ -6,8 +6,14 @@ function Home() {
 
   return (
     <div>
-      <p>
-      To build thoughtful AI.
+      <p> 
+      Hi, I am Takahiro Ishikawa. Thank you for visiting this website.
+      I am interested in AI; working on some projects, reading papers, writing some thoughts on it.
+      I wanted to share those becasue it may be beneficial for anyone.
+
+      I hope you can find anything interesting from this website.
+
+      You can contact me anytime via email - hiro52ishikawa@gmail.com
       </p>
     </div>
   );
