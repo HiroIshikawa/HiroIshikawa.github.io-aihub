@@ -21,7 +21,6 @@ function App({ children, routes }) {
     return (
       routes.filter(route => route.mapMenuTitle)
         .map((route, index, array) => (
-          index = "/HiroIshikawa.github.io-aihub" + index;
           <span key={index}>
             <Link to={nextPath(route)}>{route.mapMenuTitle}</Link>
             {(index + 1) < array.length && ' / '}
