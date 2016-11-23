@@ -8,7 +8,7 @@ const propTypes = {
 
 function App({ children, routes }) {
   function generateMapMenu() {
-    let path = '';
+    let path = 'HiroIshikawa.github.io-aihub';
 
     function nextPath(route) {
       path += (
