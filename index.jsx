@@ -10,21 +10,20 @@ import ExampleComponent from './components/ExampleComponent';
 import ExampleTwoDeepComponent from './components/ExampleTwoDeepComponent';
 import Note from './components/Note';
 
+// Routes
+
 const routes = (
   <Route path="/HiroIshikawa.github.io-aihub" mapMenuTitle="Home" component={App}>
+    <Route path="/note" mapMenuTitle="Note" component={Note} />
+    <Route path="/*" mapMenuTitle="Page Not Found" component={PageNotFound} />
     <IndexRoute component={Home} />
-
-    <Route path="/HiroIshikawa.github.io-aihub/note" mapMenuTitle="Note" component={Note} >
-    </Route>
-
-    <Route path="/HiroIshikawa.github.io-aihub/example" mapMenuTitle="Example" component={ExampleComponent}>
-      <Route path="two-deep" mapMenuTitle="Two Deep" component={ExampleTwoDeepComponent} />
-    </Route>
-
-    <Route path="/HiroIshikawa.github.io-aihub/*" mapMenuTitle="Page Not Found" component={PageNotFound} />
   </Route>
 );
 
+// Nested Root Example:
+//<Route path="/HiroIshikawa.github.io-aihub/example" mapMenuTitle="Example" component={ExampleComponent}>
+//  <Route path="two-deep" mapMenuTitle="Two Deep" component={ExampleTwoDeepComponent} />
+//</Route>
 
 render(
   <Router
