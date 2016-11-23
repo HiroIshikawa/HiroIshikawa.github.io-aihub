@@ -35,12 +35,11 @@ function App({ children, routes }) {
     <div>
       <h1>aihub</h1>
       <a href={repoLink}>https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub</a>
-      <div><Link to="/HiroIshikawa.github.io-aihub/">Home</Link></div>
-      <div><Link to="/HiroIshikawa.github.io-aihub/about">About</Link></div>
-      <div><Link to="/HiroIshikawa.github.io-aihub/project">Project</Link></div>
-      <div><Link to="/HiroIshikawa.github.io-aihub/books">Books</Link></div>
-      <div><Link to="/HiroIshikawa.github.io-aihub/blog">Blog</Link></div>
-      <div><Link to="/HiroIshikawa.github.io-aihub/note">Note</Link></div>
+      <div><Link to="/HiroIshikawa.github.io-aihub/about">About   </Link>
+      <Link to="/HiroIshikawa.github.io-aihub/project">Project   </Link>
+      <Link to="/HiroIshikawa.github.io-aihub/books">Books   </Link>
+      <Link to="/HiroIshikawa.github.io-aihub/blog">Blog   </Link>
+      <Link to="/HiroIshikawa.github.io-aihub/note">Note</Link></div>
       {children}
       <div style={{ color: '#A0A0A0', fontSize: '14px', marginTop: '50px' }}>
         <a href="https://github.com/HiroIshikawa" className="extended-link">
