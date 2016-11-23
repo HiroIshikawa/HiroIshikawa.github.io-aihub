@@ -5,12 +5,12 @@ import 'current-input';
 
 import App from './components/App';
 import Home from './components/Home';
-import PageNotFound from './components/PageNotFound';
 import About from './components/About';
 import Project from './components/Project';
 import Books from './components/Books';
 import Blog from './components/Blog';
 import Note from './components/Note';
+import PageNotFound from './components/PageNotFound';
 // import ExampleComponent from './components/ExampleComponent';
 // import ExampleTwoDeepComponent from './components/ExampleTwoDeepComponent';
 
