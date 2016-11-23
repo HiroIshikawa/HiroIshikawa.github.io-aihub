@@ -36,7 +36,7 @@ function App({ children, routes }) {
       <h1>aihub</h1>
       <a href={repoLink}>https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub</a>
       <nav>
-        {generateMapMenu()}
+        <!-- {generateMapMenu()} -->
       </nav>
       {children}
       <div style={{ color: '#A0A0A0', fontSize: '14px', marginTop: '50px' }}>
