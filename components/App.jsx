@@ -35,9 +35,6 @@ function App({ children, routes }) {
     <div>
       <h1>aihub</h1>
       <a href={repoLink}>https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub</a>
-      <nav>
-        <!-- {generateMapMenu()} -->
-      </nav>
       {children}
       <div style={{ color: '#A0A0A0', fontSize: '14px', marginTop: '50px' }}>
         <a href="https://github.com/HiroIshikawa" className="extended-link">
@@ -47,6 +44,10 @@ function App({ children, routes }) {
     </div>
   );
 }
+
+// <nav>
+//  {generateMapMenu()}
+// </nav>
 
 App.propTypes = propTypes;
 
