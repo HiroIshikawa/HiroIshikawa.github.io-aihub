@@ -15,13 +15,13 @@ function App({ children, routes }) {
         (path.slice(-1) === '/' ? '' : '/') +
         (route.path === '/' ? '' : route.path)
       );
-      path = "/HiroIshikawa.github.io-aihub" + path;
       return path;
     }
 
     return (
       routes.filter(route => route.mapMenuTitle)
         .map((route, index, array) => (
+          index = "/HiroIshikawa.github.io-aihub" + index;
           <span key={index}>
             <Link to={nextPath(route)}>{route.mapMenuTitle}</Link>
             {(index + 1) < array.length && ' / '}
