@@ -37,11 +37,11 @@ function App({ children, routes }) {
       <a href={repoLink}>https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub</a>
       <div>
         <Link to="/HiroIshikawa.github.io-aihub/">Home |</Link>
-        <Link to="/HiroIshikawa.github.io-aihub/about">About |</Link>
-        <Link to="/HiroIshikawa.github.io-aihub/project">Project |</Link>
-        <Link to="/HiroIshikawa.github.io-aihub/books">Books |</Link>
-        <Link to="/HiroIshikawa.github.io-aihub/blog">Blog |</Link>
-        <Link to="/HiroIshikawa.github.io-aihub/note">Note</Link>
+        <Link to="/HiroIshikawa.github.io-aihub/about"> About |</Link>
+        <Link to="/HiroIshikawa.github.io-aihub/project"> Project |</Link>
+        <Link to="/HiroIshikawa.github.io-aihub/books"> Books |</Link>
+        <Link to="/HiroIshikawa.github.io-aihub/blog"> Blog |</Link>
+        <Link to="/HiroIshikawa.github.io-aihub/note"> Note</Link>
       </div>
       {children}
       <div style={{ color: '#A0A0A0', fontSize: '14px', marginTop: '50px' }}>
