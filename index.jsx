@@ -14,7 +14,7 @@ import Note from './components/Note';
 
 const routes = (
   <Route path="/HiroIshikawa.github.io-aihub" mapMenuTitle="Home" component={App}>
-    <IndexRoute path="/HiroIshikawa.github.io-aihub" component={Home} />
+    <IndexRoute component={Home} />
     <Route path="note" mapMenuTitle="Note" component={Note} />
     <Route path="*" mapMenuTitle="Page Not Found" component={PageNotFound} />
   </Route>
