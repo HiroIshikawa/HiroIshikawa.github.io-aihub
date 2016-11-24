@@ -31,7 +31,7 @@ function Note() {
       <p>
       <p>Data Modeling:</p>
       <ul>
-      <li>Data Types: It&rsquo;s important to know the types of data since each data types need different ways to be processed. Original data may be converted to other types of data by modification. </li>
+      <li>Data Types: Its important to know the types of data since each data types need different ways to be processed. Original data may be converted to other types of data by modification. </li>
       <ul>
       <li>Numeric Data: a measurement or count.</li>
       <ul>
@@ -49,16 +49,16 @@ function Note() {
       <li>One-Hot Encoding: a simple encoding that convert any categorical data attributes in numeric form. id. [ Easy, Medium, Hard ] -> [ 0, 1, 2 ]</li>
       <li>The Training Set Size and Accuracy: fundamentally, more data gives better machine learning modeling. </li>
       </ul>
-      <p>&nbsp;</p>
+
       <p>Evaluation and Validation:</p>
       <ul>
       <li>Dataset is splitted into training samples and testing samples. The independency between training and testing samples gives unbiased assessment on the model.</li>
-      <li>Computers need to predict using a model given new set of inputs. Practically, the model has to deal with independent different data inputs. Testing is a simulation for that assumption. It simulate the &ldquo;outside-of-the-box&rdquo; situation where machines feed newly observed data inputs and predict based on that.</li>
-      <li>If a model constructed training gives poor performance on testing samples, it indicates that the model is not generalised enough; which is called &ldquo;overfitting&rdquo;. It&rsquo;s like a boxer who performs greatly in training room but very poorly in street fight. A good boxer can perform greatly in street fight too. (one&rsquo;s skill is generalized enough to fit in new situations.)</li>
+      <li>Computers need to predict using a model given new set of inputs. Practically, the model has to deal with independent different data inputs. Testing is a simulation for that assumption. It simulate the outside-of-the-box situation where machines feed newly observed data inputs and predict based on that.</li>
+      <li>If a model constructed training gives poor performance on testing samples, it indicates that the model is not generalised enough; which is called overfitting. Its like a boxer who performs greatly in training room but very poorly in street fight. A good boxer can perform greatly in street fight too. (ones skill is generalized enough to fit in new situations.)</li>
       <li>Metrics: different types of problems need different evaluation criterion.</li>
       <li>Classification Metrics: </li>
       <ul>
-      <li>Classification has &ldquo;classes&rdquo;, which represents labeled outputs under predefined criterion. ie. animals classified to mammals, reptiles, birds, amphibians, and fish (classes of animals). </li>
+      <li>Classification has classes, which represents labeled outputs under predefined criterion. ie. animals classified to mammals, reptiles, birds, amphibians, and fish (classes of animals). </li>
       <li>Metrics functions as error detection criterion. We should pick the best metrics, accuracy, precision, recall etc.., in different problems. Depending on which side of errors we want to weigh on to detect, we choose metrics to evaluate a machine learning model performance. </li>
       <li>Accuracy: </li>
       </ul>
@@ -83,19 +83,19 @@ function Note() {
       </ul>
       <li>In general, we want to minimize both of errors. However, different problems have different ratio of favors between two errors.</li>
       <ul>
-      <li>ie. Cancer Detection: we want to minimize False Negatives. We should never say &ldquo;you are fine&rdquo; (negative predicted = no cancer predicted) to the patients who actually developing cancers in their body (positive actually = cancer developing). We should say &ldquo;you need further diagnosis&rdquo; even if it turns out to be actually no cancers found at the end (False Positives)..</li>
+      <li>ie. Cancer Detection: we want to minimize False Negatives. We should never say you are fine (negative predicted = no cancer predicted) to the patients who actually developing cancers in their body (positive actually = cancer developing). We should say you need further diagnosis even if it turns out to be actually no cancers found at the end (False Positives)..</li>
       </ul>
       </ul>
       </ul>
       </ul>
-      <li>Precision and Recall: confusion matrix helps us to identify each buckets of classifier model&rsquo;s predictions and actuals. Precision and Recall numericalize a rate of errors for the two error cases. These are more specific versions of accuracy based on types of errors.</li>
+      <li>Precision and Recall: confusion matrix helps us to identify each buckets of classifier models predictions and actuals. Precision and Recall numericalize a rate of errors for the two error cases. These are more specific versions of accuracy based on types of errors.</li>
       <ul>
-      <li>Precision: &ldquo;how many false alarms we made&rdquo;. The more false positives, we have less precision. The more falses we believe, the less we are precise. = True Positive / (True Positive + False Positive)</li>
-      <li>Recall: &ldquo;how many false ignorances we made&rdquo;. The more false negatives, we have less recall. The more truths we ignore, the worse we recall. = True Positives / (True Positive + False Negative)</li>
+      <li>Precision: how many false alarms we made. The more false positives, we have less precision. The more falses we believe, the less we are precise. = True Positive / (True Positive + False Positive)</li>
+      <li>Recall: how many false ignorances we made. The more false negatives, we have less recall. The more truths we ignore, the worse we recall. = True Positives / (True Positive + False Negative)</li>
       </ul>
       <li>F1 Score: now we have precision and recall scores. F1 score is the weighted average of precision and recalls so that it can reflect both of the errors in a class predictions. = 2 * (precision * recall ) / (precision + recall)</li>
       </ul>
-      <p>&nbsp;</p>
+      
       <ul>
       <li>Regression Metrics:</li>
       </ul>
@@ -103,19 +103,19 @@ function Note() {
       <li>Mean Absolute Error</li>
       <li>Mean Squared Error</li>
       </ul>
-      <p>&nbsp;</p>
+      
       <p>Managing Error and Complexity:</p>
       <ul>
       <li>Causes of errors. Now the question is that what is the cause of errors that a model can made. Computing the scoring for the performance of the model, we want to fix the causes of error in the next step.</li>
       <li>Bias: the degree of unableness that a model represents complexity of the underlying data</li>
       <li>Variance: the degree of sensitivity that a model have to the limited data it has been.</li>
       <li>Complexity affects both of bias and variance. We tune complexity of a model to minimize both bias and variance.</li>
-      <li>Curse of Dimensionality: &ldquo;As the number of features or dimensions grows, the amount of data we need to generalize accurately grows exponentially.&rdquo;</li>
+      <li>Curse of Dimensionality: As the number of features or dimensions grows, the amount of data we need to generalize accurately grows exponentially.</li>
       <li>Learning Curves: graph that compares the performance of a model on training and testing data over a varying number of training instances. By splitting the training and testing data plots line separately, we measure the generalization performance of the model for unseen data. We would like to know the point where both training and testing set the highest accuracy of prediction (minimize error) and minimum data amount required. Y - any performance score, X - data amount</li>
       <ul>
       <li>On Bias: the training and testing errors converge and are high. The model is too simple to represent underlying complexity of dataset. We need to figure out a way to achieve more complexity of the model ( adding more features etc.. )</li>
       <li>On Variance: the gap between training and testing error is large. We can minimize the variance by increasing the amount of data to train and test or simplify the model by reducing features to the more important ones. </li>
-      <li>A model tuning should aim at &ldquo;both the testing and training curves converge at similar values&rdquo; and &ldquo;the gap between the training and testing sets, is quite small&rdquo; on learning curve plots.</li>
+      <li>A model tuning should aim at both the testing and training curves converge at similar values and the gap between the training and testing sets, is quite small on learning curve plots.</li>
       </ul>
       <li>Model Complexity Graph: Y - any performance score, X - complexity of model. Complexity of a model can be varied by tuning its inputs or parameters.</li>
       <ul>
@@ -126,22 +126,22 @@ function Note() {
       <li>K-Fold Cross Validation: Run K separate learning experiments, pick testing set, train, test, test on testing set. Average test results from those k experiments. Takes more time to train but gains more accuracy. </li>
       </ul>
       </ul>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
+      
+      
       <p>Type of Learnings:</p>
       <ul>
       <li>Supervised Learning: </li>
       <li>Unsupervised Learning: </li>
       </ul>
-      <p>&nbsp;</p>
+      
       <p>Supervised Learning</p>
       <ul>
       <li>Supervised Learning: build model given prior problem and answer. A machine computes a solution and it will be given an answer for it. The machine compares own solution and the answer given to calibrate the model. </li>
       </ul>
-      <p>&nbsp;</p>
+      
       <p>Regression:</p>
       <ul>
-      <li>estimate relationships among variables. Continuous. Usually, we pick up independent variables (features, x) and &ldquo;a&rdquo; dependent variable (label, y). The modeling is to construct a function that express the relationship while minimizing the errors between the estimation line representing continuous values and actual label values observed.</li>
+      <li>estimate relationships among variables. Continuous. Usually, we pick up independent variables (features, x) and a dependent variable (label, y). The modeling is to construct a function that express the relationship while minimizing the errors between the estimation line representing continuous values and actual label values observed.</li>
       <li>The complexity of the regression model increases when we choose higher order of polynomial to make a model for it. It will fit better for the training data but given new inputs it will give higher error rate. We need to choose order of polynomial carefully so that it has enough complexity and generalization. </li>
       </ul>
       <p>Decision Tree:</p>
@@ -159,12 +159,12 @@ function Note() {
       </ul>
       <li>Continuous Values can be handled in Decision Tree process by giving range information. Note that the class is always discrete not continuous.</li>
       </ul>
-      <p>&nbsp;</p>
+      
       <p>Neural Networks:</p>
       <ul>
       <li>Perceptron model: the simplest neural network</li>
       <ul>
-      <li>Unit: for each i, activation += xi*wi. If activation &gt;= firing threshold y = 1: y = 0.</li>
+      <li>Unit: for each i, activation += xi*wi. If activation >= firing threshold y = 1: y = 0.</li>
       </ul>
       <li>Perceptron Training : Given examples (X, y), find weights that map inputs ( X ) to outputs ( y ). There are two ways: Perceptron rule ( threshold ) or Gradient descent rule ( threshold )</li>
       <ul>
@@ -180,7 +180,7 @@ function Note() {
       <ul>
       <li>where delta-w_i = a ( y - y-hat ) x_i</li>
       <ul>
-      <li>where y-hat = [ for each i, &nbsp;&nbsp;y-hat += w_i*x_i ) &gt;= 0 ]</li>
+      <li>where y-hat = [ for each i, y-hat += w_i*x_i ) >= 0 ]</li>
       </ul>
       </ul>
       </ul>
