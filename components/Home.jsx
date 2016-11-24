@@ -41,7 +41,6 @@ function Home() {
           Interesting part is the optimiazation part. 
           To reduce the computation cost, we should minimize the number of processing images. 
           Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
-          <br></br>
           I am sharing recent updates including more technical details
           <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/projects" target="_blank"> in the projects page</a>
           .
@@ -55,14 +54,14 @@ function Home() {
             <li><a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4/ref=sr_1_7?s=digital-text&ie=UTF8&qid=1479982480&sr=1-7&keywords=Meditation" target="_blank">Meditations by Marcus Aurelius</a></li>
             <li><a href="https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence" target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
           </ul>
-          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I am handpicking some recommended books</a>
+          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I am handpicking some recommended books </a>
           and
           <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank"> sharing a secret tip to read a book everyday.</a>
         </p>
         <br></br>
         <h1>Blog</h1>
         <p>
-          <a href="https://medium.com/@tk2bit" target="_blank">I write and share on Medium</a>
+          <a href="https://medium.com/@tk2bit" target="_blank">I write and share some thoughts mainly about technology on Medium</a>
           .
         </p>
         <br></br>
