@@ -19,7 +19,7 @@ function Home() {
           , worked on 
           <a href="https://github.com/openMF/community-app/pull/1541" target="_blank"> MifosX(Fineract) opensource project</a>
           , built 
-          <a href="https://github.com/HiroIshikawa/21playground" target="_blank"> bitcoin apps on 21 bitcoin platform</a>
+          <a href="https://github.com/HiroIshikawa/21playground/tree/master/instaphoto" target="_blank"> bitcoin apps on 21 bitcoin platform</a>
           , 
           <a href="http://www.hyperxite.com/pod/" target="_blank"> implemented controls logic of the pod of Hyperloop UCI</a>
           <a href="http://www.spacex.com/hyperloop" target="_blank">, which is competing in Hyperloop Pod Competition by SpaceX</a>
