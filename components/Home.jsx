@@ -8,28 +8,46 @@ function Home() {
     <div>
       <header>
         <br></br>
-        <br></br>
         <h1>Tak Ishikawa</h1>
         <p>
           I am a senior CS student at
-          <a href="https://www.ics.uci.edu/" target="_blank">UC Irvine</a>
+          <a href="https://www.ics.uci.edu/" target="_blank"> UC Irvine</a>
           , previously an intern at Drivemode as 
           <a href="https://drivemode.com/" target="_blank"> website developer</a>
           , and as 
           <a href="https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp" target="_blank"> data engineer (a.k.a. data cowboy)</a>
           , worked on 
-          <a href="https://github.com/openMF/community-app/pull/1541" target="_blank"> Mifos X opensource project</a>
+          <a href="https://github.com/openMF/community-app/pull/1541" target="_blank"> MifosX(Fineract) opensource project</a>
           , built 
           <a href="https://github.com/HiroIshikawa/21playground" target="_blank"> bitcoin apps on 21 bitcoin platform</a>
-          , helped implementing controls system of 
-          <a href="http://www.hyperxite.com/pod/" target="_blank"> Hyperloop UCI pod</a>
-          , currently am working on 
-          <a href="https://github.com/ucirobotarm/UCI_Robot_Arm" target="_blank"> image processing for UCI Robot Arm project</a>
-          , maintaining 
-          <a href="http://www.hyperxite.com/" target="_blank"> the website of Hyperloop UCI team</a>
-          , and pursing 
-          <a href="https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing" target="_blank"> Machine Learning Engineer Nanodegree program</a>
-          .
+          , 
+          <a href="http://www.hyperxite.com/pod/" target="_blank"> implemented controls logic of the pod of Hyperloop UCI</a>
+          <a href="http://www.spacex.com/hyperloop" target="_blank">, which is competing in Hyperloop Pod Competition by SpaceX</a>
+          , currently 
+          <a href="https://github.com/ucirobotarm/UCI_Robot_Arm" target="_blank"> building object detection application for UCI Robot Arm project</a>
+          , 
+          <a href="http://www.hyperxite.com/" target="_blank"> maintaining the website of Hyperloop UCI team</a>
+          , 
+          <a href="https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing" target="_blank"> pursing Machine Learning Engineer Nanodegree program</a>
+          , and 
+          <a href="https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub" target="_blank"> building this website.</a>
+          <a></a>
+        </p>
+        <br></br>
+        <h2>Project</h2>
+        <p>
+        </p>
+        <br></br>
+        <h2>Books</h2>
+        <p>
+        </p>
+        <br></br>
+        <h2>Blog</h2>
+        <p>
+        </p>
+        <br></br>
+        <h2>Note</h2>
+        <p>
         </p>
       </header>
     </div>
