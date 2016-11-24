@@ -44,6 +44,7 @@ function Home() {
           I am sharing recent updates including more technical details
           <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/projects"> in the projects page</a>
           .
+
         </p>
         <br></br>
         <h1>Books</h1>
@@ -55,20 +56,21 @@ function Home() {
             <li><a href="https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence" target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
           </ul>
           <br></br>
-          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I am handpicking some recommended books </a>
+          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I reviewed the best books I ever read in my life </a>
           and <br></br>
-          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank"> sharing a secret tip to read a book everyday.</a>
+          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank"> shared a secret tip to read a book everyday.</a>
         </p>
         <br></br>
         <h1>Blog</h1>
         <p>
-          <a href="https://medium.com/@tk2bit" target="_blank">I write and share some thoughts mainly about technology on Medium</a>
-          .
+          I write entries
+          <a href="https://medium.com/@tk2bit" target="_blank"> on Medium</a>
+          . You'll see a quate (!), thoughts on AI, Crypto, VR/AR, Education, and yeah, how deeply I love Cozmo from ANKI (the tiny but badass smart robot).
         </p>
         <br></br>
         <h1>Note</h1>
         <p>
-          Note is for sharing anything about AI. This part if kind a legacy part of previouts contents but I still love it.
+          This part if kind a legacy part of previously designed contents but I still wannt keep it.
           <br></br>
           <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/note"> If you are interested in, please visit the Note page</a> 
           .
