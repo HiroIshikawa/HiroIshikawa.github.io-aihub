@@ -162,7 +162,7 @@ code {
   margin: 3vh 0;
 }
 
-img.avatar {
+#avatar {
   background-size: 100%;
   display: block;
   height: 80px;
