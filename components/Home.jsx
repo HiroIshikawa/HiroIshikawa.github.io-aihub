@@ -8,7 +8,7 @@ function Home() {
     <div>
       <header>
         <br></br>
-        <h3>Tak Ishikawa</h3>
+        <h2>Tak Ishikawa</h2>
         <p>
           I am a senior CS student at
           <a href="https://www.ics.uci.edu/" target="_blank"> UC Irvine</a>
@@ -34,19 +34,19 @@ function Home() {
           <a></a>
         </p>
         <br></br>
-        <h2>Project</h2>
+        <h1>Project</h1>
         <p>
         </p>
         <br></br>
-        <h2>Books</h2>
+        <h1>Books</h1>
         <p>
         </p>
         <br></br>
-        <h2>Blog</h2>
+        <h1>Blog</h1>
         <p>
         </p>
         <br></br>
-        <h2>Note</h2>
+        <h1>Note</h1>
         <p>
         </p>
       </header>
