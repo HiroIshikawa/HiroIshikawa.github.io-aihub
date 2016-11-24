@@ -9,7 +9,7 @@ function Home() {
       <header>
         <br></br>
         <h2>Tak Ishikawa</h2>
-        <img id="avatar" src="./assets/images/avatar.jpg" />        
+        <img id="avatar" src="./assets/images/avatar.jpg" aligh="right"/>        
         <p>
           I am a senior CS student at
           <a href="https://www.ics.uci.edu/" target="_blank"> UC Irvine</a>
