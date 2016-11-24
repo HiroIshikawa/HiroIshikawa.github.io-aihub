@@ -5,7 +5,6 @@ import 'current-input';
 
 import App from './components/App';
 import Home from './components/Home';
-import About from './components/About';
 import Project from './components/Project';
 import Books from './components/Books';
 import Blog from './components/Blog';
@@ -20,7 +19,6 @@ import PageNotFound from './components/PageNotFound';
 const routes = (
   <Route path="/HiroIshikawa.github.io-aihub" mapMenuTitle="Home" component={App}>
     <IndexRoute component={Home} />
-    <Route path="about" mapMenuTitle="About" component={About} />
     <Route path="project" mapMenuTitle="Project" component={Project} />
     <Route path="books" mapMenuTitle="Books" component={Books} />
     <Route path="blog" mapMenuTitle="Blog" component={Blog} />
