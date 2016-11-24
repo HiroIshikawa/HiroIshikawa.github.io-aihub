@@ -29,7 +29,7 @@ function Note() {
       </ul>
       <p><span>Data Modeling:</span></p>
       <ul>
-      <li><span>Data Types: It's important to know the types of data since each data types need different ways to be processed. Original data may be converted to other types of data by modification. </span></li>
+      <li><span>Data Types: Its important to know the types of data since each data types need different ways to be processed. Original data may be converted to other types of data by modification. </span></li>
       <ul>
       <li><span>Numeric Data: a measurement or count.</span></li>
       <ul>
@@ -44,7 +44,7 @@ function Note() {
       <li><span>Times-Series Data: collected via repeated measurements over time.</span></li>
       </ul>
       <li><span>Encoding: at the end of the process, computers process information in the form of bits. We want to give numeric form of inputs to computers so that they can easily deal with datasets and conduct tasks we asked for. Encoding converts data into another form and, in particular in the context of machine learning, into numeric data.</span></li>
-      <li><span>One-Hot Encoding: a simple encoding that convert any categorical data attributes in numeric form. id. { Easy, Medium, Hard } -&gt; { 0, 1, 2 }</span></li>
+      <li><span>One-Hot Encoding: a simple encoding that convert any categorical data attributes in numeric form. id. { Easy, Medium, Hard } -> [ 0, 1, 2 ]</span></li>
       <li><span>The Training Set Size and Accuracy: fundamentally, more data gives better machine learning modeling.</span></li>
       </ul>
     </div>
