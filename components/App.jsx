@@ -32,9 +32,7 @@ function App({ children, routes }) {
   const repoLink = 'https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub';
 
   return (
-    <div>
-      <h1>aihub</h1>
-      <a href={repoLink}>https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub</a>
+    <div>   
       <div>
         <Link to="/HiroIshikawa.github.io-aihub/">Home |</Link>
         <Link to="/HiroIshikawa.github.io-aihub/projects"> Projects |</Link>
@@ -51,6 +49,9 @@ function App({ children, routes }) {
     </div>
   );
 }
+
+// <h1>aihub</h1>
+//      <a href={repoLink}>https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub</a>
 
 // <nav>
 //  {generateMapMenu()}
