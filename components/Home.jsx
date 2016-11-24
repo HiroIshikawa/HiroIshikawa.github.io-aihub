@@ -48,14 +48,15 @@ function Home() {
         <br></br>
         <h1>Books</h1>
         <p>
-          I love reading books. As of Nov 16, 2016, I am reading circurately 
+          I love reading books. As of Nov 16, 2016, I am reading/listening circurately 
           <ul>
             <li><a href="https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG" target="_blank">The War of Art: Winning the Inner Creative Battle by Stecen Pressfield</a></li>
             <li><a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4/ref=sr_1_7?s=digital-text&ie=UTF8&qid=1479982480&sr=1-7&keywords=Meditation" target="_blank">Meditations by Marcus Aurelius</a></li>
             <li><a href="https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence" target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
           </ul>
+          <br></br>
           <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I am handpicking some recommended books </a>
-          and
+          and <br></br>
           <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank"> sharing a secret tip to read a book everyday.</a>
         </p>
         <br></br>
@@ -68,7 +69,8 @@ function Home() {
         <h1>Note</h1>
         <p>
           Note is for sharing anything about AI. This part if kind a legacy part of previouts contents but I still love it.
-          <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/note" target="_blank"> Please visit the Note page</a> 
+          <br></br>
+          <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/note" target="_blank"> If you are interested in, please visit the Note page</a> 
           .
         </p>
       </header>
