@@ -48,11 +48,11 @@ function Note() {
             <li><span>Times-Series Data: collected via repeated measurements over time.</span></li>
           </ul>
             <li><span>Encoding: at the end of the process, computers process information in the form of bits. We want to give numeric form of inputs to computers so that they can easily deal with datasets and conduct tasks we asked for. Encoding converts data into another form and, in particular in the context of machine learning, into numeric data.</span></li>
-            <li><span>One-Hot Encoding: a simple encoding that convert any categorical data attributes in numeric form. id. { Easy, Medium, Hard } -&gt; { 0, 1, 2 }</span></li>
+            <li><span>One-Hot Encoding: a simple encoding that convert any categorical data attributes in numeric form. id. { Easy, Medium, Hard } -> { 0, 1, 2 }</span></li>
             <li><span>The Training Set Size and Accuracy: fundamentally, more data gives better machine learning modeling. </span></li>
       </ul>
-      
-      <p>&nbsp;</p>
+
+      <p></p>
       <p><span>Evaluation and Validation:</span></p>
       <ul>
       <li><span>Dataset is splitted into training samples and testing samples. The independency between training and testing samples gives unbiased assessment on the model.</span></li>
@@ -98,7 +98,7 @@ function Note() {
       </ul>
       <li><span>F1 Score: now we have precision and recall scores. F1 score is the weighted average of precision and recalls so that it can reflect both of the errors in a class predictions. = 2 * (precision * recall ) / (precision + recall)</span></li>
       </ul>
-      <p>&nbsp;</p>
+      <p></p>
       <ul>
       <li><span>Regression Metrics:</span></li>
       </ul>
@@ -106,7 +106,7 @@ function Note() {
       <li><span>Mean Absolute Error</span></li>
       <li><span>Mean Squared Error</span></li>
       </ul>
-      <p>&nbsp;</p>
+      <p></p>
       <p><span>Managing Error and Complexity:</span></p>
       <ul>
       <li><span>Causes of errors. Now the question is that what is the cause of errors that a model can made. Computing the scoring for the performance of the model, we want to fix the causes of error in the next step.</span></li>
@@ -129,19 +129,19 @@ function Note() {
       <li><span>K-Fold Cross Validation: Run K separate learning experiments, pick testing set, train, test, test on testing set. Average test results from those k experiments. Takes more time to train but gains more accuracy. </span></li>
       </ul>
       </ul>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
+      <p></p>
+      <p></p>
       <p><span>Type of Learnings:</span></p>
       <ul>
       <li><span>Supervised Learning: </span></li>
       <li><span>Unsupervised Learning: </span></li>
       </ul>
-      <p>&nbsp;</p>
+      <p></p>
       <p><span>Supervised Learning</span></p>
       <ul>
       <li><span>Supervised Learning: build model given prior problem and answer. A machine computes a solution and it will be given an answer for it. The machine compares own solution and the answer given to calibrate the model. </span></li>
       </ul>
-      <p>&nbsp;</p>
+      <p></p>
       <p><span>Regression:</span></p>
       <ul>
       <li><span>estimate relationships among variables. Continuous. Usually, we pick up independent variables (features, x) and a dependent variable (label, y). The modeling is to construct a function that express the relationship while minimizing the errors between the estimation line representing continuous values and actual label values observed.</span></li>
@@ -162,7 +162,7 @@ function Note() {
       </ul>
       <li><span>Continuous Values can be handled in Decision Tree process by giving range information. Note that the class is always discrete not continuous.</span></li>
       </ul>
-      <p>&nbsp;</p>
+      <p></p>
       <p><span>Neural Networks:</span></p>
       <ul>
       <li><span>Perceptron model: the simplest neural network</span></li>
@@ -183,7 +183,7 @@ function Note() {
       <ul>
       <li><span>where delta-w_i = a ( y - y-hat ) x_i</span></li>
       <ul>
-      <li><span>where y-hat = [ for each i, &nbsp;&nbsp;y-hat += w_i*x_i ) >= 0 ]</span></li>
+      <li><span>where y-hat = [ for each i, y-hat += w_i*x_i ) >= 0 ]</span></li>
       </ul>
       </ul>
       </ul>
