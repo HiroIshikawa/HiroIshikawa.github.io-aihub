@@ -8,7 +8,7 @@ function Home() {
     <div>
       <header>
         <br></br>
-        <img class="avatar" src="../assets/images/avatar.jpg" />
+        <img class="avatar" src=".../assets/images/avatar.jpg" />
         <h2>Tak Ishikawa</h2>
         <p>
           I am a senior CS student at
