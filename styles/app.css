@@ -167,7 +167,8 @@ img.avatar {
   display: block;
   height: 80px;
   overflow: hidden;
-  border-radius: 100px;
+  /*border-radius: 100px;*/
+  border-radius: 50%;
   -moz-border-radius: 100px;
   -webkit-border-radius: 100px;
   width: 80px;
