@@ -38,13 +38,13 @@ function Home() {
         <h1>Projects</h1>
         <p>
           The most recent proejct I am working on is the Robot Arm object detection with images.
+          Interesting part is the optimiazation part. 
+          To reduce the computation cost, we should minimize the number of processing images. 
+          Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
+          <br></br>
           I am sharing recent updates including more technical details
           <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/projects" target="_blank"> in the projects page</a>
           .
-          <br></br>
-          Interesting part is the optimiazation part. To reduce the computation cost, we should minimize the number of processing 
-          images. Current promising approach for that is choosing images by sorting based on similarities scores between set of 
-          combination of images.
         </p>
         <br></br>
         <h1>Books</h1>
