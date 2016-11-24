@@ -42,7 +42,7 @@ function Home() {
           To reduce the computation cost, we should minimize the number of processing images. 
           Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
           I am sharing recent updates including more technical details
-          <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/projects"> in the projects page</a>
+          <Link to="/HiroIshikawa.github.io-aihub/projects"> in the projects page</Link>
           .
 
         </p>
@@ -72,7 +72,7 @@ function Home() {
         <p>
           This part if kind a legacy part of previously designed contents but I still wannt keep it.
           <br></br>
-          <a href="https://hiroishikawa.github.io/HiroIshikawa.github.io-aihub/note"> If you are interested in, please visit the Note page</a> 
+          <Link to="/HiroIshikawa.github.io-aihub/note"> If you are interested in, please visit the Note page</Link> 
           .
         </p>
       </header>
