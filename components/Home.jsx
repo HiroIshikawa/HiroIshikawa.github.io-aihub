@@ -35,7 +35,7 @@ function Home() {
           <a></a>
         </p>
         <br></br>
-        <h1>Project</h1>
+        <h1>Projects</h1>
         <p>
         </p>
         <br></br>
