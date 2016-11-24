@@ -7,13 +7,13 @@ function Home() {
   return (
     <div>
       <header>
-        <br>
-        <br>
+        <br></br>
+        <br></br>
         <h1>Tak Ishikawa</h1>
         <p>
           I am a senior CS student at
           <a href="https://www.ics.uci.edu/" target="_blank">UC Irvine</a>
-          , previously interned at Drivemode as 
+          , previously an intern at Drivemode as 
           <a href="https://drivemode.com/" target="_blank"> website developer</a>
           , and as 
           <a href="https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp" target="_blank"> data engineer (a.k.a. data cowboy)</a>
