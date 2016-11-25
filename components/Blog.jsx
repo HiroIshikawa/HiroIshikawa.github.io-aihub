@@ -8,6 +8,7 @@ function Blog() {
   return (
     <div>
     <p>I put the most recent blog entry here. I put archives on Medium.</p>
+    <br></br>
     <h1>Depth</h1>
       <p>
       	We move around, dig shallow, and find nothing valualbe. <br></br>
@@ -22,6 +23,7 @@ function Blog() {
       	Don't make any moment to argue. <br></br><br></br>
       	Keep digging.
       </p>
+      <br></br>
     <h1>Choice</h1>
       <p>
         The more choices we have, the happier we feel. <br></br>
@@ -31,8 +33,10 @@ function Blog() {
         "No, you cannot do that." <br></br><br></br>
         We don't realize that becasue it's inside us.<br></br><br></br>
         You gain more choices if you liberate your heart from the noise. <br></br><br></br>
-        Stop giving up choices. Start making more choices.
+        Stop giving up choices. <br></br><br></br>
+        Start making more choices.
       </p>
+      <br></br>
     <h1>Meditation</h1>
       <p>
         Listen to the silence. <br></br>
@@ -41,10 +45,10 @@ function Blog() {
         Be aware of the color of emptiness. <br></br><br></br>
         Stand here. <br></br>
         Be aware of the force of gravity. <br></br><br></br>
-        Take a second. <br></br>
+        Take a few minute. <br></br>
         Be aware of the value of the present. <br></br><br></br>
-        Take one more second. <br></br><br></br><br></br>
-        Now, you take a step forward.
+        Take one more minute. <br></br><br></br><br>
+        Now, you go.
       </p>
     </div>
   );
