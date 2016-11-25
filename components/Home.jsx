@@ -44,7 +44,6 @@ function Home() {
           I am sharing recent updates including more technical details
           <Link to="/HiroIshikawa.github.io-aihub/projects"> in the projects page</Link>
           .
-
         </p>
         <br></br>
         <h1>Books</h1>
@@ -63,9 +62,23 @@ function Home() {
         <br></br>
         <h1>Blog</h1>
         <p>
-          I write entries
+          I put the most recent entry at
+          <Link to="/HiroIshikawa.github.io-aihub/note"> blog page</Link> 
+          .
+          <br></br>
+          <br></br>
+          I archive entries
           <a href="https://medium.com/@tk2bit" target="_blank"> on Medium</a>
-          . You'll see a quate (!), thoughts on AI, Crypto, VR/AR, Education, and yeah, how deeply I love Cozmo from ANKI (the tiny but badass smart robot).
+          . You'll see my thoughts on AI, Crypto, VR/AR, and Education. These all are quick reads.
+          <br></br>
+          <br></br>
+          I am practicing writing simplily. This is motivated by 
+          <a href="http://blog.dilbert.com/post/127310496506/the-day-you-became-a-better-writer-2nd-look" target ="_blank"> an entry by the Dilber's writer, Scott Adams</a>
+          , 
+          <a href="https://en.wikipedia.org/wiki/Occam's_razor" target ="_blank"> Occam's razor</a>
+          , and
+          <a href="https://en.wikipedia.org/wiki/KISS_principle" target ="_blank"> KISS principle</a>
+          .
         </p>
         <br></br>
         <h1>Note</h1>
