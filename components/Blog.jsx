@@ -40,8 +40,11 @@ function Blog() {
         Look at the air. <br></br>
         Be aware of the color of emptiness. <br></br><br></br>
         Stand here. <br></br>
-        Be aware of the value of moment. <br></br><br></br>
-        Now you take a step forward.
+        Be aware of the force of gravity. <br></br><br></br>
+        Take a second. <br></br>
+        Be aware of the value of the present. <br></br><br></br>
+        Take one more second. <br></br><br></br><br></br>
+        Now, you take a step forward.
       </p>
     </div>
   );
