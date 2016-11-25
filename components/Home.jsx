@@ -50,7 +50,7 @@ function Home() {
         <p>
           I love reading books. As of Nov 16, 2016, I am reading/listening circurately 
           <ul>
-            <li><a href="https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG" target="_blank">The War of Art: Winning the Inner Creative Battle by Stecen Pressfield</a></li>
+            <li><a href="https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG" target="_blank">The War of Art: Winning the Inner Creative Battle by Steven Pressfield</a></li>
             <li><a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4/ref=sr_1_7?s=digital-text&ie=UTF8&qid=1479982480&sr=1-7&keywords=Meditation" target="_blank">Meditations by Marcus Aurelius</a></li>
             <li><a href="https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence" target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
           </ul>

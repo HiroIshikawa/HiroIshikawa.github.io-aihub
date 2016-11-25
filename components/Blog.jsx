@@ -8,7 +8,7 @@ function Blog() {
   return (
     <div>
     <p>I put the most recent blog entry here. I put archives on Medium.</p>
-    <h2>Dig Deeply</h2>
+    <h2>Depth</h2>
       <p>
       	We tend to move around, dig shallow, and find nothing valualbe.
       	From no matter where, when digging deeply enough, you'll find valuable thing.
@@ -29,6 +29,16 @@ function Blog() {
       	Youself. 
       	Do not give the moment to yourself for arguing.
       	Just keep digging.
+      </p>
+    <h2>Choice</h2>
+      <p>
+        The more choices we have, the happier we feel.
+        How can we have more choices? 
+        Stop reducing choices by yourself.
+        I mean, we tend to narrow our chioces by the internal internal voice not external conditions. 
+        The voice in our head tells "No, you cannot do that." 
+        This is the real enemy. 
+        You realizes more choices if you liberate your heart from the noise.
       </p>
     </div>
   );
