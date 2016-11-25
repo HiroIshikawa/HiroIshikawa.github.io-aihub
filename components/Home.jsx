@@ -44,6 +44,8 @@ function Home() {
           I am sharing recent updates including more technical details
           <Link to="/HiroIshikawa.github.io-aihub/projects"> in the projects page</Link>
           .
+          <br></br><br></br>
+          I am starting a project called ML Starter Kit, which is a webapp where any developer can experience ML app development cycle.
         </p>
         <br></br>
         <h1>Books</h1>

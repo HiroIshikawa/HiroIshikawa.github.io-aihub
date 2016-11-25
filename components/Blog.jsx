@@ -18,9 +18,9 @@ function Blog() {
       	It is the core. It locates at the very deep spot. <br></br><br></br>
       	Keep digging. <br></br><br></br>
       	No matter what happens, keep digging. <br></br>
-      	Don't give excuses to stop. <br></br><br></br>
+      	Don't make any excuse to stop. <br></br><br></br>
       	No matter what people say, keep digging. <br></br>
-      	Don't make any moment to argue. <br></br><br></br>
+      	Don't give any moment to argue. <br></br><br></br>
       	Keep digging.
       </p>
       <br></br>
