@@ -58,12 +58,15 @@ function Home() {
           <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I reviewed the best books I ever read in my life </a>
           and <br></br>
           <a href="https://medium.com/@tk2bit/how-to-read-a-book-everyday-6c02d443011e#.zctt7vpb1" target="_blank"> shared a secret tip to read a book everyday.</a>
+          <br></br>
+          <br></br>
+          
         </p>
         <br></br>
         <h1>Blog</h1>
         <p>
           I put the most recent entry at
-          <Link to="/HiroIshikawa.github.io-aihub/note"> blog page</Link> 
+          <Link to="/HiroIshikawa.github.io-aihub/blog"> blog page</Link> 
           .
           <br></br>
           <br></br>
