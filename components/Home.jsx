@@ -55,50 +55,55 @@ function Home() {
             <li><a href="https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence" target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
           </ul>
           <br></br>
-          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I reviewed the best books I ever read in my life </a>
+          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I reviewed the best books I have ever read </a>
           and <br></br>
           <a href="https://medium.com/@tk2bit/how-to-read-a-book-everyday-6c02d443011e#.zctt7vpb1" target="_blank"> shared a secret tip to read a book everyday.</a>
           <br></br>
           <br></br>
           I am listing all the books at 
-          <Link to="/HiroIshikawa.github.io-aihub/books"> books page</Link> 
+          <Link to="/HiroIshikawa.github.io-aihub/books"> the books page</Link> 
           .
-          I formats the list in "[Book Title] allows you...".
-          This helps to fit your current needs of knowledge. 
+          I format the list in "[Book Title] allows you...".
+          I hope this format helps you to find the knowledge you need instantly. 
 
         </p>
         <br></br>
         <h1>Blog</h1>
         <p>
           I put the most recent entry at
-          <Link to="/HiroIshikawa.github.io-aihub/blog"> blog page</Link> 
+          <Link to="/HiroIshikawa.github.io-aihub/blog"> the blog page</Link> 
           .
           <br></br>
           <br></br>
-          I archive entries
-          <a href="https://medium.com/@tk2bit" target="_blank"> on Medium</a>
-          . You'll see my thoughts on AI, Crypto, VR/AR, and Education. These all are quick reads.
+          I archive entries on 
+          <a href="https://medium.com/@tk2bit" target="_blank"> Medium</a>
+          . You'll see my thoughts on AI, Crypto, VR/AR, and Education. These all are quick readings.
           <br></br>
           <br></br>
           I am practicing writing simplily. This is motivated by 
           <a href="http://blog.dilbert.com/post/127310496506/the-day-you-became-a-better-writer-2nd-look" target ="_blank"> an entry by the Dilber's writer, Scott Adams</a>
-          , 
-          <a href="https://en.wikipedia.org/wiki/Occam's_razor" target ="_blank"> Occam's razor</a>
-          , and
-          <a href="https://en.wikipedia.org/wiki/KISS_principle" target ="_blank"> KISS principle</a>
           .
         </p>
         <br></br>
         <h1>Note</h1>
         <p>
-          This part if kind a legacy part of previously designed contents but I still wannt keep it.
-          <br></br>
-          <Link to="/HiroIshikawa.github.io-aihub/note"> If you are interested in, please visit the Note page</Link> 
+          Here, I am leaving a note about anyhting I am learning. 
+          If you are interested in, please visit 
+          <Link to="/HiroIshikawa.github.io-aihub/note"> the Note page</Link> 
           .
         </p>
       </header>
     </div>
   );
 }
+
+          // A list of reoccuring questions I have kept asking in the projects I have been working:
+          // <ul>
+          //   <li>"How do people interect with a website? How can we persuade people to pay more attention to our product?</li>
+          //   <li>"How can "</li>
+          //   <li></li>
+          //   <li></li>
+          //   <li></li>
+          // </ul>
 
 export default Home;
