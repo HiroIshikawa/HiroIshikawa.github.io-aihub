@@ -63,7 +63,6 @@ function Home() {
           I am listing all the books at 
           <Link to="/HiroIshikawa.github.io-aihub/books"> books page</Link> 
           .
-          <br></br>
           I formats the list in "[Book Title] allows you...".
           This helps to fit your current needs of knowledge. 
 
