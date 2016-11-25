@@ -39,8 +39,9 @@ function Blog() {
         Be aware of the sound of nothingness. <br></br><br></br>
         Look at the air. <br></br>
         Be aware of the color of emptiness. <br></br><br></br>
-        Travel here. <br></br><br></br>
-        Be the present.
+        Stand here. <br></br>
+        Be aware of the feeling of the present. <br></br><br></br>
+        Now you take a step forward.
       </p>
     </div>
   );
