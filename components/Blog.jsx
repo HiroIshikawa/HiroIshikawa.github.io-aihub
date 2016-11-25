@@ -47,7 +47,7 @@ function Blog() {
         Be aware of the force of gravity. <br></br><br></br>
         Take a few minute. <br></br>
         Be aware of the value of the present. <br></br><br></br>
-        Take one more minute. <br></br><br></br><br>
+        Take one more minute. <br></br><br></br>
         Now, you go.
       </p>
     </div>
