@@ -60,7 +60,13 @@ function Home() {
           <a href="https://medium.com/@tk2bit/how-to-read-a-book-everyday-6c02d443011e#.zctt7vpb1" target="_blank"> shared a secret tip to read a book everyday.</a>
           <br></br>
           <br></br>
-          
+          I am listing all the books at 
+          <Link to="/HiroIshikawa.github.io-aihub/books"> books page</Link> 
+          .
+          <br></br>
+          I formats the list in "[Book Title] allows you...".
+          This helps to fit your current needs of knowledge. 
+
         </p>
         <br></br>
         <h1>Blog</h1>
