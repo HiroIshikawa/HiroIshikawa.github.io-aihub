@@ -12,13 +12,17 @@ function Blog() {
       <p>
       	We tend to move around, dig shallow, and find nothing valualbe.
       	From no matter where, when digging deeply enough, you'll find valuable thing.
-      	Truly valuable things are huge enough to be found from many direction.
-      	It is the core. It locates at very deep spot.
+      	Truly valuable things are huge enough to be found from many directions.
+      	It is the core. It locates at the very deep spot.
+      	<br></br>
       	<br></br>
       	Why do we give up to dig deeply enough?
       	Because of fear of missing out.
       	How can we eliminate the fear of missing out?
-      	Just keep digging. Do not get back to the surface.
+      	Just keep digging. Just keep digging.
+      	No matter what happens, just keep digging.
+      	No matter what people say, just keep digging.
+      	Just keep digging.
       </p>
     </div>
   );
