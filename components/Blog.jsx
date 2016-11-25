@@ -11,33 +11,35 @@ function Blog() {
     <h1>Depth</h1>
       <p>
       	We move around, dig shallow, and find nothing valualbe. <br></br>
-      	From no matter where, when digging deeply enough, you'll find something valuable. <br></br>
+      	From no matter where, when digging deeply enough, <br></br>
+        you'll find something valuable. <br></br><br></br>
       	Valuable things are huge enough to be found from many directions. <br></br>
-      	It is the core. It locates at the very deep spot. <br></br>
-      	Keep digging. <br></br>
+      	It is the core. It locates at the very deep spot. <br></br><br></br>
+      	Keep digging. <br></br><br></br>
       	No matter what happens, keep digging. <br></br>
-      	Don't give excuses to stop. <br></br>
+      	Don't give excuses to stop. <br></br><br></br>
       	No matter what people say, keep digging. <br></br>
-      	Don't make any moment to argue. <br></br>
+      	Don't make any moment to argue. <br></br><br></br>
       	Keep digging.
       </p>
     <h1>Choice</h1>
       <p>
         The more choices we have, the happier we feel. <br></br>
-        How can we have more choices? <br></br>
-        Stop reducing choices. <br></br>
-        I mean, we tend to narrow our chioces by the internal internal voice. <br></br>
-        The voice in our head tells "No, you cannot do that." <br></br>
-        This is the real enemy. <br></br>
-        You realizes more choices if you liberate your heart from the noise.
+        How can we have more choices? <br></br><br></br>
+        Stop reducing choices. <br></br><br></br>
+        I mean, we tend to narrow our chioces by the internal voice, <br></br>
+        "No, you cannot do that." <br></br><br></br>
+        This is the real enemy. <br></br><br></br>
+        You realizes more choices if you liberate your heart from the noise. <br></br><br></br>
+        Stop reducing choices.
       </p>
     <h1>Meditation</h1>
       <p>
         Listen to the silence. <br></br>
-        Be aware of the sound of nothingness. <br></br>
+        Be aware of the sound of nothingness. <br></br><br></br>
         Look at the air. <br></br>
-        Be aware of the color of emptiness. <br></br>
-        Travel here. <br></br>
+        Be aware of the color of emptiness. <br></br><br></br>
+        Travel here. <br></br><br></br>
         Be the present.
       </p>
     </div>
