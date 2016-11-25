@@ -20,8 +20,14 @@ function Blog() {
       	Because of fear of missing out.
       	How can we eliminate the fear of missing out?
       	Just keep digging. Just keep digging.
-      	No matter what happens, just keep digging.
-      	No matter what people say, just keep digging.
+      	No matter what happens, just keep digging. 
+      	Who is the most often causes the event that precents you from keep doing? 
+      	Yourself. 
+      	Do not give excuse to yourself for stop doing it. 
+      	No matter what people say, just keep digging. 
+      	Who is the most often tell you stop doing it? 
+      	Youself. 
+      	Do not give the moment to yourself for arguing.
       	Just keep digging.
       </p>
     </div>
