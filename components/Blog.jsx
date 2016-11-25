@@ -40,7 +40,7 @@ function Blog() {
         Look at the air. <br></br>
         Be aware of the color of emptiness. <br></br><br></br>
         Stand here. <br></br>
-        Be aware of the feeling of the present. <br></br><br></br>
+        Be aware of the value of moment. <br></br><br></br>
         Now you take a step forward.
       </p>
     </div>
