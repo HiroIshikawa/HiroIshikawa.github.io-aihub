@@ -56,20 +56,20 @@ function Home() {
           , commited on 
           <a href={mifosXLink} target="_blank"> MifosX (Fineract) opensource project</a>
           , built 
-          <a href={instaPhotoLink} target="_blank"> bitcoin apps</a> 
+          <a href={instaPhotoLink} target="_blank"> bitcoin apps </a> 
           on
           <a href={twentyOneLink} target="_blank"> 21 platform</a>
-          , 
-          <a href={hxPodLink} target="_blank"> implemented controls logic of the pod of Hyperloop UCI</a>
-          <a href={podCompeLink} target="_blank">, which is competing in Hyperloop Pod Competition</a>
+          , worked for 
+          <a href={hxPodLink} target="_blank"> controls and telemetry system team in Hyperloop UCI</a>
+          <a href={podCompeLink} target="_blank"> to compete in the Hyperloop Pod Competition 2016</a>
           , currently 
           <a href={uciRobotArmLink} target="_blank"> building object detection application for UCI Robot Arm project</a>
           , 
-          <a href={hxLink} target="_blank"> maintaining the website of Hyperloop UCI team</a>
+          <a href={hxLink} target="_blank"> managing the website of Hyperloop UCI team</a>
           , 
           <Link to="/HiroIshikawa.github.io-me/note"> pursing Machine Learning Engineer Nanodegree program</Link> 
           , and 
-          <a href={meLink} target="_blank"> building this website</a>
+          <a href={meLink} target="_blank"> maintaining this website</a>
           .
           <br></br>
           <br></br>
@@ -87,6 +87,7 @@ function Home() {
           , hosted on
           <a href={ghPagesLink} target="_blank"> Github Pages</a>
           .
+          <br></br>
           <a href={reactCreateGhDeploy} target="_blank"> This how to deploy react-create app on Github Pages.</a>
 
           <a></a>
