@@ -37,7 +37,6 @@ function Project() {
 		.
 		</p>
 		<br></br>
-		<br></br>
 		<h1>Optimization</h1>
 		<p>
 		Second interesting part is the optimiazation part. 

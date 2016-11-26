@@ -50,7 +50,7 @@ function Home() {
           <a href={instaPhotoLink} target="_blank"> bitcoin apps on 21 bitcoin platform</a>
           , 
           <a href={hxPodLink} target="_blank"> implemented controls logic of the pod of Hyperloop UCI</a>
-          <a href={podCompeLink} target="_blank">, which is competing in Hyperloop Pod Competition by SpaceX</a>
+          <a href={podCompeLink} target="_blank">, which is competing in Hyperloop Pod Competition</a>
           , currently 
           <a href={uciRobotArmLink} target="_blank"> building object detection application for UCI Robot Arm project</a>
           , 
