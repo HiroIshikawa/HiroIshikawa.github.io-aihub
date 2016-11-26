@@ -8,6 +8,8 @@ function Project() {
   const surfVideoLink = 'https://www.youtube.com/watch?v=ZXn69V-1kEM';
   const acRcLink = 'https://zhengludwig.wordpress.com/projects/self-driving-rc-car/';
   const haarTrainLink = 'http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html';
+  const cvCascadeLink = 'http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html';
+  const cvCascadeTrainLink = 'http://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html';
 
   return (
     <div>
@@ -52,6 +54,15 @@ function Project() {
 		More details on how to train the classifier can be found 
 		<a href={haarTrainLink} target="_blank"> a post by Thorsten Ball </a>
 		.
+		<br></br>
+		<br></br>
+		OpenCV supports Cascade Classification.
+		<a href={cvCascadeLink} target="_blank"> Official OpenCV Document on Cascade Classification </a>
+		gives explanation about its theoritical background and implementation. 
+		Cascade Classifier Training process is explained 
+		<a href={cvCascadeTrainLink} target="_blank"> here</a>
+		. 
+		I recommend to refer to the official document when actually implementing the Cascade Classifier with OpenCV. 
 		</p>
 
 		<br></br>
