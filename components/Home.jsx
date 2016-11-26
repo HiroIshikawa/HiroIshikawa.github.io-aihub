@@ -7,6 +7,7 @@ function Home() {
   const reactCreateLink = 'https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html';
   const ghPagesLink = 'https://pages.github.com/';
   const reactCreateGhDeploy = 'https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages';
+  const myTwLink = 'https://twitter.com/tk2bit';
   const icsLink = 'https://www.ics.uci.edu/';
   const dmLink = 'https://drivemode.com/';
   const dmInstaDcLink = 'https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp';
