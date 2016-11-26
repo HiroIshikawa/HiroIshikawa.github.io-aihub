@@ -1,13 +1,13 @@
 {
-  "name": "aihub",
+  "name": "me",
   "version": "2.0.0",
-  "description": "aihub",
+  "description": "me",
   "scripts": {
     "start": "webpack -d --watch & live-server --entry-file=404.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub.git"
+    "url": "git+https://github.com/HiroIshikawa/HiroIshikawa.github.io-me.git"
   },
   "author": "Takahiro Ishikawa <hiro52ishikawa@gmail.com>",
   "license": "MIT",

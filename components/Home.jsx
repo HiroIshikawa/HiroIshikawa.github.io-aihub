@@ -17,7 +17,7 @@ function Home() {
   const podCompeLink = 'http://www.spacex.com/hyperloop';
   const uciRobotArmLink = 'https://github.com/ucirobotarm/UCI_Robot_Arm';
   const hxLink = 'http://www.hyperxite.com/';
-  const aihubLink = 'https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub';
+  const meLink = 'https://github.com/HiroIshikawa/HiroIshikawa.github.io-me';
 
   // Projects
 
@@ -63,9 +63,9 @@ function Home() {
           , 
           <a href={hxLink} target="_blank"> maintaining the website of Hyperloop UCI team</a>
           , 
-          <Link to="/HiroIshikawa.github.io-aihub/note"> pursing Machine Learning Engineer Nanodegree program</Link> 
+          <Link to="/HiroIshikawa.github.io-me/note"> pursing Machine Learning Engineer Nanodegree program</Link> 
           , and 
-          <a href={aihubLink} target="_blank"> building this website</a>
+          <a href={meLink} target="_blank"> building this website</a>
           .
           <br></br>
           <br></br>
@@ -91,7 +91,7 @@ function Home() {
         <h1>Projects</h1>
         <p>
           I am sharing recent updates including more technical details
-          <Link to="/HiroIshikawa.github.io-aihub/projects"> in the projects page</Link>
+          <Link to="/HiroIshikawa.github.io-me/projects"> in the projects page</Link>
           .
         </p>
         <br></br>
@@ -110,7 +110,7 @@ function Home() {
           <br></br>
           <br></br>
           I am listing all the books at 
-          <Link to="/HiroIshikawa.github.io-aihub/books"> the books page</Link> 
+          <Link to="/HiroIshikawa.github.io-me/books"> the books page</Link> 
           .
           I format the list in "[Book Title] allows you...".<br></br>
           I hope this format helps you to find the knowledge you need instantly. 
@@ -120,7 +120,7 @@ function Home() {
         <h1>Blog</h1>
         <p>
           I put the most recent entry at
-          <Link to="/HiroIshikawa.github.io-aihub/blog"> the blog page</Link> 
+          <Link to="/HiroIshikawa.github.io-me/blog"> the blog page</Link> 
           .
           <br></br>
           <br></br>
@@ -147,7 +147,7 @@ function Home() {
           Here, I am leaving a note about anyhting I am learning.
           <br></br>
           If you are interested in, please visit 
-          <Link to="/HiroIshikawa.github.io-aihub/note"> the Note page</Link> 
+          <Link to="/HiroIshikawa.github.io-me/note"> the Note page</Link> 
           .
         </p>
       </header>

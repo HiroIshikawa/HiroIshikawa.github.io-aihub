@@ -12,7 +12,7 @@ function ExampleComponent({ children }) {
         This is example (modified to test.).
       </p>
       {children ||
-        <div><Link to="/HiroIshikawa.github.io-aihub/example/two-deep?field1=foo&field2=bar#boom!">
+        <div><Link to="/HiroIshikawa.github.io-me/example/two-deep?field1=foo&field2=bar#boom!">
           Example two deep with query and hash
         </Link></div>}
     </div>

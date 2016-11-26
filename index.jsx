@@ -17,7 +17,7 @@ import PageNotFound from './components/PageNotFound';
 // Routes
 
 const routes = (
-  <Route path="/HiroIshikawa.github.io-aihub" mapMenuTitle="Home" component={App}>
+  <Route path="/HiroIshikawa.github.io-me" mapMenuTitle="Home" component={App}>
     <IndexRoute component={Home} />
     <Route path="projects" mapMenuTitle="Projects" component={Projects} />
     <Route path="books" mapMenuTitle="Books" component={Books} />
