@@ -4,6 +4,7 @@ import { Link } from 'react-router';
 function Project() {
   const udacityNdLink = 'https://www.udacity.com/nanodegree';
   const mlGDocNoteLink = 'https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing';
+  const objectRecogWikiLink = 'https://en.wikipedia.org/wiki/Outline_of_object_recognition';
 
   return (
     <div>
@@ -25,6 +26,9 @@ function Project() {
 	    </ul>
 	    We call these attributes as featuers.
 	    We can do pattern match with these attributes.
+	    Before moving on, I recommend you to go over 
+	    <a href={objectRecogWikiLink} target="_blank"> Outline of object recognition (Wikipedia) </a>
+	    .
 	    <br></br>
 	    <br></br>
 	    
