@@ -64,17 +64,6 @@ function Home() {
         <br></br>
         <h1>Projects</h1>
         <p>
-          The most recent proejct I am working on is the Robot Arm object detection with images.
-          To detect image, we are considering some options:
-          <ul>
-            <li></li>
-          </ul>
-
-          <br></br>
-          <br></br>
-          Second interesting part is the optimiazation part. 
-          To reduce the computation cost, we should minimize the number of processing images. 
-          Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
           I am sharing recent updates including more technical details
           <Link to="/HiroIshikawa.github.io-aihub/projects"> in the projects page</Link>
           .
@@ -120,7 +109,8 @@ function Home() {
           <br></br>
           <br></br>
           Also, I am trying to avoid 
-          <a href={grammerMistakeLink} target="_blank">common grammatical mistakes</a>
+          <a href={grammerMistakeLink} target="_blank"> common grammatical mistakes</a>
+          .
         </p>
         <br></br>
         <h1>Note</h1>
