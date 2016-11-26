@@ -5,6 +5,7 @@ function Project() {
   const udacityNdLink = 'https://www.udacity.com/nanodegree';
   const mlGDocNoteLink = 'https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing';
   const objectRecogWikiLink = 'https://en.wikipedia.org/wiki/Outline_of_object_recognition';
+  const surfVideoLink = 'https://www.youtube.com/watch?v=ZXn69V-1kEM';
 
   return (
     <div>
@@ -35,7 +36,14 @@ function Project() {
 		Before moving on, I recommend you to go over 
 		<a href={objectRecogWikiLink} target="_blank"> Outline of object recognition (Wikipedia) </a>
 		.
+		<br></br>
+		<br></br>
+		We determine to use SURF for real-time object detection with OpenCV. 
+		<a href={surfVideoLink} target="_blank"> this video </a>
+		introduces very well about theory and implementation the SURF real-time object detection.
+		.
 		</p>
+
 		<br></br>
 		<h1>Optimization</h1>
 		<p>
