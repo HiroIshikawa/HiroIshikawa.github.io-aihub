@@ -10,6 +10,7 @@ function Project() {
   const haarTrainLink = 'http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html';
   const cvCascadeLink = 'http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html';
   const cvCascadeTrainLink = 'http://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html';
+  const cvVideoCapLink = 'http://docs.opencv.org/2.4/modules/highgui/doc/reading_and_writing_images_and_video.html#videocapture-set';
 
   return (
     <div>
@@ -63,6 +64,27 @@ function Project() {
 		<a href={cvCascadeTrainLink} target="_blank"> here</a>
 		. 
 		I recommend to refer to the official document when actually implementing the Cascade Classifier with OpenCV. 
+		<br></br>
+		<br></br>
+		Quick note on Cascade Classifier:
+		<ul>
+			<li>To train, we separate training data to positive examples and negative ones.</li>
+			<li>Positive exampels should include the target object.</li>
+			<li>Depending on the generalization level of the object, we need more positive examples to train.</li>
+			<li>ie. to recognize faces, we need hundreds or even thousands of images of faces with variety features.</li>
+			<li>Positive examples can be generated from one or a few images with OpenCV build-in function, opencv_createsamples.</li>
+			<li>Negative examples must not include the target object.</li>
+			<li>Negative examples should be made manually.</li>
+			<li>Negative examples sometimes called background samples or background sample images.</li>
+			<li>Opencv provides many <a href={cvCascadeTrainLink} target="_blank"> command line arguments </a> to prepare examples for classification.</li>
+			<li>To capture images from a video, OpenCV has <a href={cvVideoCapLink}> VideoCapture function</a>.</li>
+			<li>OpenCV, opencv_traincascade, fucntion train prepared examples.</li>
+			<li>1. Common arguments: specify basic information to train.</li>
+			<li>2. Cascade parameters: specify stage type (only boosted classifier is supported today), feature type (Haar-like feature or local binary petterns), and width and height (should exactly same values as used during training samples creation). </li>
+			<li>3. Boosted classfier parameters: type, minimal desired hit rate, max false alarm rate, weight trim rate, max depth, and max weak count.</li>
+			<li>4. Haar-like feature parameters: mode (BASIC:use only upright features, or ALL:full set of upright and 45 degree rotated feature set).</li>
+			<li>5. Local Binary Patterns parameters: no param available.</li>
+		</ul>
 		</p>
 
 		<br></br>
