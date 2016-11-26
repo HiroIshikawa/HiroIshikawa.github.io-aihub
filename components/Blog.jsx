@@ -26,15 +26,15 @@ function Blog() {
       <br></br>
     <h1>Choice</h1>
       <p>
-        The more choices we have, the happier we feel. <br></br>
-        How can we have more choices? <br></br><br></br>
-        Stop giving up choices. <br></br><br></br>
-        I mean, we tend to narrow our chioces by the internal voice, <br></br>
+        The more choice we have, the happier we feel. <br></br>
+        How can we have more choice? <br></br><br></br>
+        Stop giving up a choice. <br></br><br></br>
+        I mean, we tend to narrow our choice by the internal voice, <br></br>
         "No, you cannot do that." <br></br><br></br>
         We don't realize that becasue it's inside us.<br></br><br></br>
-        You gain more choices if you liberate your heart from the noise. <br></br><br></br>
-        Stop giving up choices. <br></br><br></br>
-        Start making more choices.
+        You gain more choice if you liberate your heart from the noise. <br></br><br></br>
+        Stop giving up a choice. <br></br><br></br>
+        Start making more choice.
       </p>
       <br></br>
     <h1>Meditation</h1>
