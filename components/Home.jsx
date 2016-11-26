@@ -2,7 +2,34 @@ import React from 'react';
 import { Link } from 'react-router';
 
 function Home() {
+  // about me
   const reactLink = 'https://github.com/facebook/react';
+  const icsLink = 'https://www.ics.uci.edu/';
+  const dmLink = 'https://drivemode.com/';
+  const dmInstaDcLink = 'https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp';
+  const mifosPRLink = 'https://github.com/openMF/community-app/pull/1541';
+  const instaPhotoLink = 'https://github.com/HiroIshikawa/21playground/tree/master/instaphoto';
+  const hxPodLink = 'http://www.hyperxite.com/pod/';
+  const podCompeLink = 'http://www.spacex.com/hyperloop';
+  const uciRobotArmLink = 'https://github.com/ucirobotarm/UCI_Robot_Arm';
+  const hxLink = 'http://www.hyperxite.com/';
+  const aihubLink = 'https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub';
+
+  // Projects
+
+  // Books
+  const warOfArtLink = 'https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG';
+  const meditationsLink = 'https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4/ref=sr_1_7?s=digital-text&ie=UTF8&qid=1479982480&sr=1-7&keywords=Meditation';
+  const onIntelLink = 'https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence';
+
+  const bestBooksLink = 'https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h';
+  const readABookEverydayLink = 'https://medium.com/@tk2bit/how-to-read-a-book-everyday-6c02d443011e#.zctt7vpb1';
+
+  // Blog
+  const mediumLink = 'https://medium.com/@tk2bit';
+  const theDayYouBecomeAGoodWriterLink = 'http://blog.dilbert.com/post/127310496506/the-day-you-became-a-better-writer-2nd-look';
+
+  const grammerMistakeLink = 'http://blog.hubspot.com/marketing/common-grammar-mistakes-list#sm.000006f0ciqynnctuq0frvuzsngng';
 
   return (
     <div>
@@ -12,54 +39,56 @@ function Home() {
         <img id="avatar" src="./assets/images/avatar.jpg" align="center"/>        
         <p>
           I am a senior CS student at
-          <a href="https://www.ics.uci.edu/" target="_blank"> UC Irvine</a>
+          <a href={icsLink} target="_blank"> UC Irvine</a>
           , previously an intern at Drivemode as 
-          <a href="https://drivemode.com/" target="_blank"> website developer</a>
+          <a href={dmLink} target="_blank"> website developer</a>
           , and as 
-          <a href="https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp" target="_blank"> data engineer (a.k.a. data cowboy)</a>
+          <a href={dmInstaDcLink} target="_blank"> data engineer (a.k.a. data cowboy)</a>
           , worked on 
-          <a href="https://github.com/openMF/community-app/pull/1541" target="_blank"> MifosX (Fineract) opensource project</a>
+          <a href={mifosPRLink} target="_blank"> MifosX (Fineract) opensource project</a>
           , built 
-          <a href="https://github.com/HiroIshikawa/21playground/tree/master/instaphoto" target="_blank"> bitcoin apps on 21 bitcoin platform</a>
+          <a href={instaPhotoLink} target="_blank"> bitcoin apps on 21 bitcoin platform</a>
           , 
-          <a href="http://www.hyperxite.com/pod/" target="_blank"> implemented controls logic of the pod of Hyperloop UCI</a>
-          <a href="http://www.spacex.com/hyperloop" target="_blank">, which is competing in Hyperloop Pod Competition by SpaceX</a>
+          <a href={hxPodLink} target="_blank"> implemented controls logic of the pod of Hyperloop UCI</a>
+          <a href={podCompeLink} target="_blank">, which is competing in Hyperloop Pod Competition by SpaceX</a>
           , currently 
-          <a href="https://github.com/ucirobotarm/UCI_Robot_Arm" target="_blank"> building object detection application for UCI Robot Arm project</a>
+          <a href={uciRobotArmLink} target="_blank"> building object detection application for UCI Robot Arm project</a>
           , 
-          <a href="http://www.hyperxite.com/" target="_blank"> maintaining the website of Hyperloop UCI team</a>
+          <a href={hxLink} target="_blank"> maintaining the website of Hyperloop UCI team</a>
           , 
-          <a href="https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing" target="_blank"> pursing Machine Learning Engineer Nanodegree program</a>
+          <Link to="/HiroIshikawa.github.io-aihub/note"> pursing Machine Learning Engineer Nanodegree program</Link> 
           , and 
-          <a href="https://github.com/HiroIshikawa/HiroIshikawa.github.io-aihub" target="_blank"> building this website.</a>
+          <a href={aihubLink} target="_blank"> building this website.</a>
           <a></a>
         </p>
         <br></br>
         <h1>Projects</h1>
         <p>
           The most recent proejct I am working on is the Robot Arm object detection with images.
-          Interesting part is the optimiazation part. 
+          To detect image, we have several options of attributes that 
+
+          <br></br>
+          <br></br>
+          Second interesting part is the optimiazation part. 
           To reduce the computation cost, we should minimize the number of processing images. 
           Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
           I am sharing recent updates including more technical details
           <Link to="/HiroIshikawa.github.io-aihub/projects"> in the projects page</Link>
           .
-          <br></br><br></br>
-          I am starting a project called ML Starter Kit, which is a webapp where any developer can experience ML app development cycle.
         </p>
         <br></br>
         <h1>Books</h1>
         <p>
           I love reading books. As of Nov 16, 2016, I am reading/listening circurately 
           <ul>
-            <li><a href="https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG" target="_blank">The War of Art: Winning the Inner Creative Battle by Steven Pressfield</a></li>
-            <li><a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4/ref=sr_1_7?s=digital-text&ie=UTF8&qid=1479982480&sr=1-7&keywords=Meditation" target="_blank">Meditations by Marcus Aurelius</a></li>
-            <li><a href="https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence" target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
+            <li><a href={warOfArtLink} target="_blank">The War of Art: Winning the Inner Creative Battle by Steven Pressfield</a></li>
+            <li><a href={meditationsLink} target="_blank">Meditations by Marcus Aurelius</a></li>
+            <li><a href={onIntelLink} target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
           </ul>
           <br></br>
-          <a href="https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h" target="_blank">I reviewed the best books I have ever read </a>
+          <a href={bestBooksLink} target="_blank">I reviewed the best books I have ever read </a>
           and <br></br>
-          <a href="https://medium.com/@tk2bit/how-to-read-a-book-everyday-6c02d443011e#.zctt7vpb1" target="_blank"> shared a secret tip to read a book everyday.</a>
+          <a href={readABookEverydayLink} target="_blank"> shared a secret tip to read a book everyday.</a>
           <br></br>
           <br></br>
           I am listing all the books at 
@@ -78,13 +107,17 @@ function Home() {
           <br></br>
           <br></br>
           I archive entries on 
-          <a href="https://medium.com/@tk2bit" target="_blank"> Medium</a>
+          <a href={mediumLink} target="_blank"> Medium</a>
           . You'll see my thoughts on AI, Crypto, VR/AR, and Education. These all are quick readings.
           <br></br>
           <br></br>
           I am practicing writing simplily. This is motivated by 
-          <a href="http://blog.dilbert.com/post/127310496506/the-day-you-became-a-better-writer-2nd-look" target ="_blank"> an entry by the Dilber's writer, Scott Adams</a>
+          <a href={theDayYouBecomeAGoodWriterLink} target ="_blank"> an entry by the Dilber's writer, Scott Adams</a>
           .
+          <br></br>
+          <br></br>
+          Also, I am trying to avoid 
+          <a href={grammerMistakeLink} target="_blank">common grammatical mistakes</a>
         </p>
         <br></br>
         <h1>Note</h1>
