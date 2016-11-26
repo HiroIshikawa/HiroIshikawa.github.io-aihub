@@ -12,7 +12,9 @@ function Home() {
   const dmLink = 'https://drivemode.com/';
   const dmInstaDcLink = 'https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp';
   const mifosPRLink = 'https://github.com/openMF/community-app/pull/1541';
+  const mifosXLink = 'http://mifos.org/mifos-x/';
   const instaPhotoLink = 'https://github.com/HiroIshikawa/21playground/tree/master/instaphoto';
+  const twentyOneLink = 'https://21.co/';
   const hxPodLink = 'http://www.hyperxite.com/pod/';
   const podCompeLink = 'http://www.spacex.com/hyperloop';
   const uciRobotArmLink = 'https://github.com/ucirobotarm/UCI_Robot_Arm';
@@ -51,10 +53,12 @@ function Home() {
           <a href={dmLink} target="_blank"> website developer</a>
           , and as 
           <a href={dmInstaDcLink} target="_blank"> data engineer (a.k.a. data cowboy)</a>
-          , worked on 
-          <a href={mifosPRLink} target="_blank"> MifosX (Fineract) opensource project</a>
+          , commited on 
+          <a href={mifosXLink} target="_blank"> MifosX (Fineract) opensource project</a>
           , built 
-          <a href={instaPhotoLink} target="_blank"> bitcoin apps on 21 bitcoin platform</a>
+          <a href={instaPhotoLink} target="_blank"> bitcoin apps</a> 
+          on
+          <a href={twentyOneLink} target="_blank"> 21 platform</a>
           , 
           <a href={hxPodLink} target="_blank"> implemented controls logic of the pod of Hyperloop UCI</a>
           <a href={podCompeLink} target="_blank">, which is competing in Hyperloop Pod Competition</a>
@@ -91,7 +95,7 @@ function Home() {
         <h1>Projects</h1>
         <p>
           I am sharing recent updates including more technical details
-          <Link to="/HiroIshikawa.github.io-me/projects"> in the projects page</Link>
+          <Link to="/HiroIshikawa.github.io-me/projects"> in projects page</Link>
           .
         </p>
         <br></br>
@@ -104,13 +108,13 @@ function Home() {
             <li><a href={onIntelLink} target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
           </ul>
           <br></br>
-          <a href={bestBooksLink} target="_blank">I reviewed the best books I have ever read </a>
+          <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read </a>
           and 
-          <a href={readABookEverydayLink} target="_blank"> shared a secret tip to read a book everyday.</a>
+          <a href={readABookEverydayLink} target="_blank"> share a secret tip to read a book everyday.</a>
           <br></br>
           <br></br>
           I am listing all the books at 
-          <Link to="/HiroIshikawa.github.io-me/books"> the books page</Link> 
+          <Link to="/HiroIshikawa.github.io-me/books"> books page</Link> 
           .
           I format the list in "[Book Title] allows you...".<br></br>
           I hope this format helps you to find the knowledge you need instantly. 
@@ -135,11 +139,6 @@ function Home() {
           I am practicing writing simplily. This is motivated by 
           <a href={theDayYouBecomeAGoodWriterLink} target ="_blank"> an entry by the Dilber's writer, Scott Adams</a>
           .
-          <br></br>
-          <br></br>
-          Also, I am trying to avoid 
-          <a href={grammerMistakeLink} target="_blank"> common grammatical mistakes</a>
-          .
         </p>
         <br></br>
         <h1>Note</h1>
@@ -147,7 +146,7 @@ function Home() {
           Here, I am leaving a note about anyhting I am learning.
           <br></br>
           If you are interested in, please visit 
-          <Link to="/HiroIshikawa.github.io-me/note"> the Note page</Link> 
+          <Link to="/HiroIshikawa.github.io-me/note"> note page</Link> 
           .
         </p>
       </header>
