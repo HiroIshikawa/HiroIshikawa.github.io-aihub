@@ -41,7 +41,7 @@ body {
 /*reactroot div*/
 #root > div {
   min-width: 34vw;
-  max-width: 500px;
+  max-width: 700px;
   padding: 3vh 0 12vh 0;
 
   /*center based on vw to prevent content jump when vertical scroll bar show/hide
