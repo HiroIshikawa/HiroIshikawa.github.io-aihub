@@ -6,6 +6,8 @@ function Project() {
   const mlGDocNoteLink = 'https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing';
   const objectRecogWikiLink = 'https://en.wikipedia.org/wiki/Outline_of_object_recognition';
   const surfVideoLink = 'https://www.youtube.com/watch?v=ZXn69V-1kEM';
+  const acRcLink = 'https://zhengludwig.wordpress.com/projects/self-driving-rc-car/';
+  const haarTrainLink = 'http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html';
 
   return (
     <div>
@@ -41,6 +43,14 @@ function Project() {
 		We determine to use SURF for real-time object detection with OpenCV. 
 		<a href={surfVideoLink} target="_blank"> this video </a>
 		introduces very well about theory and implementation the SURF real-time object detection.
+		.
+		<br></br>
+		<br></br>
+		To find a particular object, we may use Haar-Cascade Classifiers.
+		<a href={acRcLink} target="_blank"> This Self Driving RC Car by Zheng Wang </a>
+		explains how to implement real-time object detection with Haar-Cascade Classifiers.
+		More details on how to train the classifier can be found 
+		<a href={haarTrainLink} target="_blank"> a post by Thorsten Ball </a>
 		.
 		</p>
 
