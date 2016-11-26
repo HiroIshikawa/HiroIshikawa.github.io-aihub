@@ -65,7 +65,10 @@ function Home() {
         <h1>Projects</h1>
         <p>
           The most recent proejct I am working on is the Robot Arm object detection with images.
-          To detect image, we have several options of attributes that 
+          To detect image, we are considering some options:
+          <ul>
+            <li></li>
+          </ul>
 
           <br></br>
           <br></br>
