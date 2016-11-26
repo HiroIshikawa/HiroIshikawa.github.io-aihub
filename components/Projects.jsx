@@ -66,7 +66,7 @@ function Project() {
 		I recommend to refer to the official document when actually implementing the Cascade Classifier with OpenCV. 
 		<br></br>
 		<br></br>
-		Quick note on Cascade Classifier:
+		Quick note on Cascade Classifier with OpenCV:
 		<ul>
 			<li>To train, we separate training data to positive examples and negative ones.</li>
 			<li>Positive exampels should include the target object.</li>

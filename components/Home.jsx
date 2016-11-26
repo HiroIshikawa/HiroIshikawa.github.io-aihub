@@ -4,6 +4,9 @@ import { Link } from 'react-router';
 function Home() {
   // about me
   const reactLink = 'https://github.com/facebook/react';
+  const reactCreateLink = 'https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html';
+  const ghPagesLink = 'https://pages.github.com/';
+  const reactCreateGhDeploy = 'https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages';
   const icsLink = 'https://www.ics.uci.edu/';
   const dmLink = 'https://drivemode.com/';
   const dmInstaDcLink = 'https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp';
@@ -30,6 +33,9 @@ function Home() {
   const theDayYouBecomeAGoodWriterLink = 'http://blog.dilbert.com/post/127310496506/the-day-you-became-a-better-writer-2nd-look';
 
   const grammerMistakeLink = 'http://blog.hubspot.com/marketing/common-grammar-mistakes-list#sm.000006f0ciqynnctuq0frvuzsngng';
+
+  // Note
+
 
   return (
     <div>
@@ -58,7 +64,26 @@ function Home() {
           , 
           <Link to="/HiroIshikawa.github.io-aihub/note"> pursing Machine Learning Engineer Nanodegree program</Link> 
           , and 
-          <a href={aihubLink} target="_blank"> building this website.</a>
+          <a href={aihubLink} target="_blank"> building this website</a>
+          .
+          <br></br>
+          <br></br>
+          I tweet/retweet as
+          <a href={myTwLink} target="_blank"> @tk2bit</a>
+          .
+          <br></br>
+          Please say hi to: hiro52ishikawa@gmail.com
+          <br></br>
+          <br></br>
+          This website is powered by 
+          <a href={reactLink} target="_blank"> React</a>
+          , configured with
+          <a href={reactCreateLink} target="_blank"> react-create</a>
+          , hosted on
+          <a href={ghPagesLink} target="_blank"> Github Pages</a>
+          .
+          <a href={reactCreateGhDeploy} target="_blank"> This how to deploy react-create app on Github Pages.</a>
+
           <a></a>
         </p>
         <br></br>
@@ -79,14 +104,14 @@ function Home() {
           </ul>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed the best books I have ever read </a>
-          and <br></br>
+          and 
           <a href={readABookEverydayLink} target="_blank"> shared a secret tip to read a book everyday.</a>
           <br></br>
           <br></br>
           I am listing all the books at 
           <Link to="/HiroIshikawa.github.io-aihub/books"> the books page</Link> 
           .
-          I format the list in "[Book Title] allows you...".
+          I format the list in "[Book Title] allows you...".<br></br>
           I hope this format helps you to find the knowledge you need instantly. 
 
         </p>
@@ -100,7 +125,10 @@ function Home() {
           <br></br>
           I archive entries on 
           <a href={mediumLink} target="_blank"> Medium</a>
-          . You'll see my thoughts on AI, Crypto, VR/AR, and Education. These all are quick readings.
+          . 
+          You'll see my thoughts on AI, Crypto, VR/AR, and Education. 
+          <br></br>
+          These all are quick readings.
           <br></br>
           <br></br>
           I am practicing writing simplily. This is motivated by 
@@ -115,7 +143,8 @@ function Home() {
         <br></br>
         <h1>Note</h1>
         <p>
-          Here, I am leaving a note about anyhting I am learning. 
+          Here, I am leaving a note about anyhting I am learning.
+          <br></br>
           If you are interested in, please visit 
           <Link to="/HiroIshikawa.github.io-aihub/note"> the Note page</Link> 
           .
