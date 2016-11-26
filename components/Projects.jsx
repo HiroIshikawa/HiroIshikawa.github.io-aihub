@@ -35,13 +35,15 @@ function Project() {
 		Before moving on, I recommend you to go over 
 		<a href={objectRecogWikiLink} target="_blank"> Outline of object recognition (Wikipedia) </a>
 		.
+		</p>
 		<br></br>
 		<br></br>
 		<h1>Optimization</h1>
+		<p>
 		Second interesting part is the optimiazation part. 
 		To reduce the computation cost, we should minimize the number of processing images. 
 		Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
-</p>
+		</p>
     </div>
   );
 }
