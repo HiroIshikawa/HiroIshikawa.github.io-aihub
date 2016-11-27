@@ -15,6 +15,8 @@ function Books() {
         <ul>
         	<li><a href={sovereignLink} target="_blank">The Sovereign Individual — Mastering the Transition to the Information Age by James Dale Davidson, William Ress-Mogg </a>
         	helps you to thrive in in 21st century.</li>
+          <li><a href={zeroToOneLink} target="_blank">Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel, Blake Masters </a>
+          helps you to be right while others are wrong.</li>
         </ul>
       </p>
     </div>
@@ -22,8 +24,7 @@ function Books() {
 }
 
 
-//          <li><a href={zeroToOneLink} target="_blank">Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel, Blake Masters </a>
-  //        helps you to be right while others are wrong.</li>
+//          
      //     <li><a href={sixEasyPiecesLink} target="_blank">Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by Richard P. Feynman </a>
     //      helps you to have a scientist's mindset and know foundation of physics.</li>
        //   <li><a href={meditationsLink} target="_blank">Meditations by Marcus Aurelius </a>
