@@ -17,6 +17,10 @@ function Books() {
         	helps you to thrive in in 21st century.</li>
           <li><a href={zeroToOneLink} target="_blank">Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel, Blake Masters </a>
           helps you to be right while others are wrong.</li>
+          <li><a href={sixEasyPiecesLink} target="_blank">Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by Richard P. Feynman </a>
+          helps you to have a scientist's mindset and know foundation of physics.</li>
+          <li><a href={meditationsLink} target="_blank">Meditations by Marcus Aurelius </a> 
+          helps you to be a better version of yourself.</li>
         </ul>
       </p>
     </div>
