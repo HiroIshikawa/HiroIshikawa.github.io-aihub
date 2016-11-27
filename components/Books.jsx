@@ -7,6 +7,7 @@ function Books() {
   const sovereignLink = 'https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720';
   const zeroToOneLink = 'https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296';
   const sixEasyPiecesLink = 'https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025277';
+  const meditationsLink = 'https://www.amazon.com/Meditations-Penguin-Great-Marcus-Aurelius-ebook/dp/B00C9SRN5Q/ref=mt_kindle?_encoding=UTF8&me=';
 
   return (
     <div>
