@@ -9,6 +9,7 @@ function Blog() {
     <div>
     <p>I put the most recent blog entry here. I put archives on Medium.</p>
     <br></br>
+    <h2>Depth, Chioce, Meditation</h2>
     <h1>Depth</h1>
       <p>
       	We move around, dig shallow, and find nothing valualbe. <br></br>
