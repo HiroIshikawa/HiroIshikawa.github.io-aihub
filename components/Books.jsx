@@ -15,11 +15,11 @@ function Books() {
       <p>
         <ul>
           <li><a href={soGoodLink} target="_blank">So Good They Cant Ignore You: Why Skills Trump Passion in the Quest for Work You Love. </a> 
-          helps you to let passion follow your real work.</li>
+          helps you to correct having false passion and let true passion follow you.</li>
           <li><a href={meditationsLink} target="_blank">Meditations by Marcus Aurelius </a> 
           helps you to be a better version of yourself.</li>
         	<li><a href={sovereignLink} target="_blank">The Sovereign Individual — Mastering the Transition to the Information Age by James Dale Davidson, William Ress-Mogg </a>
-        	helps you to thrive in in 21st century.</li>
+        	helps you to thrive in 21st century.</li>
           <li><a href={zeroToOneLink} target="_blank">Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel, Blake Masters </a>
           helps you to be right while others are wrong.</li>
           <li><a href={sixEasyPiecesLink} target="_blank">Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by Richard P. Feynman </a>
