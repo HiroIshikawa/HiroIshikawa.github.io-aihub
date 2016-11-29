@@ -187,6 +187,28 @@ function Note() {
       </ul>
       </ul>
       </ul>
+      <h1>Why SVM is useful</h1>
+      SVM is capable of doing both classification and regression.
+      Especially, Non-Linear SVM is effective to build more complex model without loosing the benefit of simple classification model.
+      <h1>ML Terms</h1>
+      <ul>
+        <li>Training Set: example input-putput pairs, from which to discoer a hypothesis.</li>
+        <li>Test Set: example distinct from training set, used to estimate accuracy.</li>
+        <li>Cross-vlidation: Randomly split the data into a training set and a test set.</li>
+        <li>Information Gain: </li>
+        <li>Factored Representation: Fixed set, list, or vector of features/attributes paired with a value.</li>
+        <li>Supervised Learning: agent learns patterns in the input with no explicit feedback.</li>
+        <li>Unsupervised Learning: agent observes input-output pairs & learns to map inout to output.</li>
+        <li>Classification: supervised learning with a discrete set of possible output values.</li>
+        <li>Regression: supervised learning with numeric output values.</li>
+        <li>Decision Tree: internal nodes test a value of an attribute, lear nodes=class labels.</li>
+        <li>Information Gain: expected reduction in entropy from testing an attirubte value.</li>
+        <li>Overfitting: choose an over-complex model based on irrelevant data patterns.</li>
+        <li>Decision Boundary: surface in a high-dimensional space that separates the classes.</li>
+        <li>Linear Classifier : tests w-f>0, where w is a weight vector and f is a feature vector.</li>
+        <li>Naive Bayes Classifier: tests P(C) * [ for each i, P_tot *= P(X_i | C)], where C is a class label and X_i are features.</li>
+        <li>Support Vector Machine: current most-popular off-the-shelf supervised learning method.</li>
+      </ul>
       </p>
     </div>
   );
