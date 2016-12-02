@@ -88,12 +88,21 @@ function Project() {
 		</p>
 
 		<br></br>
-		<h1>Optimization</h1>
+		<h1>3D Image Reconstruction Optimization</h1>
 		<p>
-		Second interesting part is the optimiazation part. 
-		To reduce the computation cost, we should minimize the number of processing images. 
-		Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
-		After knowing the similarity scores, we can extract the most efficient combination of the chioce of photos.
+			I am involving another project which is about 3D image reconstruction optimization.
+			The first aim is to minimimze the number of images to reconstrcut the optimal result of 3D mapping.
+			The second aim is to maximize the number of points reconstruted on the 3d mapping space.
+			To do this, we compare each pair of iamges in the image data base to look at similarity.
+			We sort the images based on the preference of the value.
+			This sorting ordering depends on heuristic which generate the similarity scores.
+			We would like to produce better scores on these.
+			Once we calculate the similarity scores, we put each of set into an array.
+			We sort the array based on the similarity score in ascending order.
+			This sorted images will be evaluated in the colmap reconstruction process.
+			We will record the number of images used and the points generated for each 10 subset of the ordered images from the top.
+			We process this with other heuristics too and compare the result.
+			Using the optimization goal, we will find the best heuristic function.
 		</p>
     </div>
   );
