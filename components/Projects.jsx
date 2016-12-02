@@ -93,6 +93,7 @@ function Project() {
 		Second interesting part is the optimiazation part. 
 		To reduce the computation cost, we should minimize the number of processing images. 
 		Current promising approach for that is choosing images by sorting based on similarities scores between set of combination of images. 
+		After knowing the similarity scores, we can extract the most efficient combination of the chioce of photos.
 		</p>
     </div>
   );
