@@ -61,7 +61,6 @@ function Home() {
           <a href={twentyOneLink} target="_blank"> 21 platform</a>
           , worked for 
           <a href={hxPodLink} target="_blank"> controls and telemetry system team in Hyperloop UCI</a>
-          <a href={podCompeLink} target="_blank"> to compete in the Hyperloop Pod Competition 2016</a>
           , currently 
           <a href={uciRobotArmLink} target="_blank"> building object detection application for UCI Robot Arm project</a>
           , 
