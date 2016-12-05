@@ -88,7 +88,7 @@ function Project() {
 		</p>
 
 		<br></br>
-		<h1>3D Image Reconstruction Optimization</h1>
+		<h2>3D Image Reconstruction Optimization</h2>
 		<p>
 			I am involving another project which is about 3D image reconstruction optimization.
 			The first aim is to minimimze the number of images to reconstrcut the optimal result of 3D mapping.
@@ -104,6 +104,31 @@ function Project() {
 			We process this with other heuristics too and compare the result.
 			Using the optimization goal, we will find the best heuristic function.
 			Heuristic functions we use is : HoG, Color Histogram, and Pixel Value Heuristics.
+		</p>
+		<h2>AI Development</h2>
+		<p>
+			The AI I has been developing was playing the K-Connect game.
+			I implemented the minmax algorithm with alpha-beta algorithm and iterative deepening search.
+			First of all, we should know the concept of heuristic score.
+			Heuristic score is a function to evaluate the preference of the state of the board for the player.
+			The higher the score is, the more feavarable the state is for the player.
+			Minmax algorithm is well adopted for 2 player game based on the heuristic score.
+			It represents each state of the board as a node of tree.
+			Usually, starting from the top, for each even level, it represents the turn of the player tyring to maximize heuristic score.
+			For odd node, it represents the opponent turn, which try to minimize heuristic score.
+			The output of the minmax function is the optimized move for the best result when the game is played in some turns.
+			The depth of the tree represents how many turns is played virtually.
+			The deeper the tree is, the more states is evaluated, which gives us better result.
+			However, in real world, we cannot compute all the possible states.
+			There are two approaches to reduce the cost of computation.
+			One is to reduce the number of expansion of nodes.
+			Second is to reduce the depth to compute.
+			The alpha-beta pruning solve the first point.
+			It cut the unnecessary nodes to explore by examinning heuristic score.
+			The iterative deepening solve the second point.
+			Given time limit, by iteratively set the depth of exploration, it stop at the right time with optimum depth level.
+			The smartness comes from the heuristic funciton.
+			There are tons of ways to make AI smarter and more efficient.
 		</p>
     </div>
   );
