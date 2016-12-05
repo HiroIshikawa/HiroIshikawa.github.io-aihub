@@ -11,33 +11,33 @@ function Blog() {
     <br></br>
     <h2>Depth, Chioce, Meditation</h2>
     <h1>Depth</h1>
-      <p>
-      	We move around, dig shallow, and find nothing valualbe. <br></br>
-      	From no matter where, when digging deeply enough, <br></br>
-        you'll find something valuable. <br></br><br></br>
-      	Valuable things are huge enough to be found from many directions. <br></br>
-      	It is the core. It locates at the very deep spot. <br></br><br></br>
-      	Keep digging. <br></br><br></br>
-      	No matter what happens, keep digging. <br></br>
-      	Don't make any excuse to stop. <br></br><br></br>
-      	No matter what people say, keep digging. <br></br>
-      	Don't give any moment to argue. <br></br><br></br>
-      	Keep digging.
-      </p>
-      <br></br>
+    <p>
+    	We move around, dig shallow, and find nothing valualbe. <br></br>
+    	From no matter where, when digging deeply enough, <br></br>
+      you'll find something valuable. <br></br><br></br>
+    	Valuable things are huge enough to be found from many directions. <br></br>
+    	It is the core. It locates at the very deep spot. <br></br><br></br>
+    	Keep digging. <br></br><br></br>
+    	No matter what happens, keep digging. <br></br>
+    	Don't make any excuse to stop. <br></br><br></br>
+    	No matter what people say, keep digging. <br></br>
+    	Don't give any moment to argue. <br></br><br></br>
+    	Keep digging.
+    </p>
+    <br></br>
     <h1>Choice</h1>
-      <p>
-        The more choice we have, the happier we feel. <br></br>
-        How can we have more choice? <br></br><br></br>
-        Stop giving up a choice. <br></br><br></br>
-        I mean, we tend to narrow our choice by the internal voice, <br></br>
-        "No, you cannot do that." <br></br><br></br>
-        We don't realize that becasue it's inside us.<br></br><br></br>
-        You gain more choice if you liberate your heart from the noise. <br></br><br></br>
-        Stop giving up a choice. <br></br><br></br>
-        Start making more choice.
-      </p>
-      <br></br>
+    <p>
+      The more choice we have, the happier we feel. <br></br>
+      How can we have more choice? <br></br><br></br>
+      Stop giving up a choice. <br></br><br></br>
+      I mean, we tend to narrow our choice by the internal voice, <br></br>
+      "No, you cannot do that." <br></br><br></br>
+      We don't realize that becasue it's inside us.<br></br><br></br>
+      You gain more choice if you liberate your heart from the noise. <br></br><br></br>
+      Stop giving up a choice. <br></br><br></br>
+      Start making more choice.
+    </p>
+    <br></br>
     <h1>Meditation</h1>
       <p>
         Listen to the silence. <br></br>
