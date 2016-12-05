@@ -103,6 +103,7 @@ function Project() {
 			We will record the number of images used and the points generated for each 10 subset of the ordered images from the top.
 			We process this with other heuristics too and compare the result.
 			Using the optimization goal, we will find the best heuristic function.
+			Heuristic functions we use is : HoG, Color Histogram, and Pixel Value Heuristics.
 		</p>
     </div>
   );
