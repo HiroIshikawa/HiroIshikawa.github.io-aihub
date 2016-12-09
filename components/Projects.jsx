@@ -137,6 +137,12 @@ function Project() {
 			Many web services and applications leverages these technologies already.
 			We are seeing more and more investment on AI based applications and infrastructure in many companies.
 		</p>
+		<h2>Functional Programming Language</h2>
+		<p>
+			I am searching for the good exmaple of functional programming for game AI.
+			The handy list manipulations would be very helpful for developing it.
+			It's capability to handle mathematical manipulations are also interesting point to remark.
+		</p>
     </div>
   );
 }
