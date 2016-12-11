@@ -130,13 +130,6 @@ function Project() {
 			The smartness comes from the heuristic funciton.
 			There are tons of ways to make AI smarter and more efficient.
 		</p>
-		<h2>AI that understands human's emotion</h2>
-		<p>
-			How can we make AI understand our emotion?
-			Face recognition and NLP can be used for that purpose.
-			Many web services and applications leverages these technologies already.
-			We are seeing more and more investment on AI based applications and infrastructure in many companies.
-		</p>
 		<h2>Functional Programming Language</h2>
 		<p>
 			I am searching for the good exmaple of functional programming for game AI.
