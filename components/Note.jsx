@@ -13,6 +13,10 @@ function Note() {
       <p>
         You can access the most recent version of the note on google doc: <a href={mlGDocNoteLink} target="_blank"> ML Note</a>. 
       </p>
+      <p>
+        To use SSH with browser activated, ssh -L 8888:localhost:8889 username@remote_host; and in the host CLI ipython notebook --no-browser --port=8889
+
+      </p>
       
       <p>ML The Most Fundamental Components:
         <ul>
