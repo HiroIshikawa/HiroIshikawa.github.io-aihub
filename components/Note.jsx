@@ -212,8 +212,6 @@ function Note() {
       </ul>
       </p>
 
-      </p>
-
       <p>Clustering</p>
       <p>
       <ul>
