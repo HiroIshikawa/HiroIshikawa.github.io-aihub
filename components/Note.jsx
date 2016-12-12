@@ -15,7 +15,6 @@ function Note() {
       </p>
       <p>
         To use SSH with browser activated, ssh -L 8888:localhost:8889 username@remote_host; and in the host CLI ipython notebook --no-browser --port=8889
-
       </p>
       
       <p>ML The Most Fundamental Components:
@@ -191,6 +190,18 @@ function Note() {
       </ul>
       </ul>
       </ul>
+
+      <p>Difference of Accuracy and F-Score</p>
+      <p>
+        <ul>
+        <li>In short, accuracy does not care about the preference on either labels valuse but F-score does.</li>
+        <li>When we have any preference on the value of the labels, we should introduce F-1 score to evaluate models.</li>
+        <li>Accuracy: number of right predictions / number of total predictions</li>
+        <li>F-1 score: weighted average of precision and recall: 2 * (precision * recall ) / (precision + recall)</li>
+        <li>Precision: true positives / (true positives + false positives) </li>
+        <li>Recall: false positives / (true positives + false negatices) </li>
+        </ul>
+      </p>
       </p>
     </div>
   );
