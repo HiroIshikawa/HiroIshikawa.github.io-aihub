@@ -247,6 +247,14 @@ function Note() {
       <li>Hardness of the feature selection: choose M features from N features: 2^N, exponential, NP-hard.</li>
       <li>Filtering: take N features, apply an algorithms, output M features. Use the M features for ml algorithm.</li>
       <li>Wrapping: take N features, apply an algorihtm, output M features, try the M features, run ml algorhtm with M features, give feedback to the feature selection algorhtim, repeat until get safficient result.</li>
+      <li>Speed: filtering is faster than wrapping. But filtering ignores learner's feedback.</li>
+      <li>Decision Trees: it is like filtering. Information gain can be used evaluation measure for the filtering process.</li>
+      <li>Depth cut-off: to reduce the number of features, we can think of devision tree max depth params as the way to stop the thing.</li>
+      <li>Induction bias: the necessary hidden assumptions that learners should incorporate to predict.</li>
+      <li>Filtering criterion: information gain, variance, entropy, independence.</li>
+      <li>Wrapping criterion: localsearch; hill climbing, generic algorithm, simulated annealing, </li>
+      <li>Forward searching: starting from zero feature iteratively add a feature with highest mark. stop when the result starts converging.</li>
+      <li>Backward searching: starting from n features iteratively subtract a feature with lowest mark. stop when the result starts converging.</li>
       <li></li>
       </p>
       
