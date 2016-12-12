@@ -232,10 +232,22 @@ function Note() {
       <li>Maximum Likelihood Gaussian: given samples and parameters, it attempts to maximize the likelihood trying different configucations of parameters for samples.</li>
       <li>Log-Likelihood Estimation: maximize the natural log of the likelihood above. The benefit relies on log's property: strictly increasing function.</li>
       <li>Expectation-maximization (EM): iterative method for finding maximum likelihood or maximum a posteriori estimates of parameters in statistical models, where the model depends on unobserved latent variables.</li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Scale-invariance: if we transform the data so that evrhthing is stretched out equally in all directions, then the clustering result shouldn't change.</li>
+      <li>Consistency: if we stretch the data so that the distances between clusters increases and/or the dinstances within clusters decreases, then the clustering shouldn't change.</li>
+      <li>Richness: the clustering function should theoretically be able to produce any arbitraty partition/clustering of datapoints (in the absence of knowing the pairwise distance between any two points.</li>
+      <li>Kleinberg's Impossibility Theorem: no clustering algorithm can achieve these three properties of EM at the same time.</li>
       </ul>
+      </p>
+
+      <p>Feature Scaling and Selection</p>
+      <p>
+      <li>Min/Max featuer scaling formula: x_new = (x - x_min) / (x_max - x_min)</li>
+      <li>Curse of Dimensionality: the more features we add the complexity grows exponentially.</li>
+      <li>Reduction of Dimensions: reduce the number of features without loosing the interpretability / the degree of knowledge discovery.</li>
+      <li>Hardness of the feature selection: choose M features from N features: 2^N, exponential, NP-hard.</li>
+      <li>Filtering: take N features, apply an algorithms, output M features. Use the M features for ml algorithm.</li>
+      <li>Wrapping: take N features, apply an algorihtm, output M features, try the M features, run ml algorhtm with M features, give feedback to the feature selection algorhtim, repeat until get safficient result.</li>
+      <li></li>
       </p>
       
       </p>
