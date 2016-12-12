@@ -255,6 +255,14 @@ function Note() {
       <li>Wrapping criterion: localsearch; hill climbing, generic algorithm, simulated annealing, </li>
       <li>Forward searching: starting from zero feature iteratively add a feature with highest mark. stop when the result starts converging.</li>
       <li>Backward searching: starting from n features iteratively subtract a feature with lowest mark. stop when the result starts converging.</li>
+      <li>Neural Network for feature selection: we may use NN for feature selection.</li>
+      <li>Strongly Relevent: if removing a feature x_i, degrades the bayes optimal classifier (BOC).</li>
+      <li>Weakly Relevent: if x_i is not strongly relevant and there is a subset of features that adding x_i improves BOC.</li>
+      <li>Irrevent: x_i is nether strongly or weakly relevent.</li>
+      <li>Usefulness: measurement of the effect of error given particular predicater and algorithms. </li>
+      <li></li>
+      <li></li>
+      <li></li>
       <li></li>
       </p>
       
