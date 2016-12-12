@@ -32,6 +32,7 @@ function Note() {
         </ul>
       </p>
       <p>
+
       <p>Data Modeling:</p>
       <ul>
       <li>Data Types: Its important to know the types of data since each data types need different ways to be processed. Original data may be converted to other types of data by modification. </li>
@@ -202,6 +203,45 @@ function Note() {
         <li>Recall: false positives / (true positives + false negatices) </li>
         </ul>
       </p>
+      
+      <p>Unsupervised Learning</p>
+      <p>
+      <ul>
+      <li>Unsupervised learning discover patterns in data without labels (no supervision).</li>
+      <li>By knowing some classes in data, we can find further </li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ul>
+      </p>
+
+      <p>Unsupervised Learning</p>
+      <p>
+      <ul>
+      <li>Unsupervised learning discover patterns in data without labels (no supervision).</li>
+      <li>By knowing some classes in data, we can find further </li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ul>
+      </p>
+
+      <p>Clustering</p>
+      <p>
+      <ul>
+      <li>A cluster is formed by a set of examples that has certain similarity in common.</li>
+        <ul>
+        <li>Single Linkage Clustering:</li>
+        <li>consider each object a (n objects).</li>
+        <li>define inter cluster distance as the distance between the closest two points in the two clusters.</li>
+        <li>merge two closest clusters.</li>
+        <li>repeat n-k times to make k-clusters.</li>
+        </ul>
+      <li>The issue of single linkage clustering: it make cluster chaining the closest node making unexpected clusters.</li>
+      <li></li>
+      </ul>
+      </p>
+      
       </p>
     </div>
   );
