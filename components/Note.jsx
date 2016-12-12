@@ -209,21 +209,9 @@ function Note() {
       <ul>
       <li>Unsupervised learning discover patterns in data without labels (no supervision).</li>
       <li>By knowing some classes in data, we can find further </li>
-      <li></li>
-      <li></li>
-      <li></li>
       </ul>
       </p>
 
-      <p>Unsupervised Learning</p>
-      <p>
-      <ul>
-      <li>Unsupervised learning discover patterns in data without labels (no supervision).</li>
-      <li>By knowing some classes in data, we can find further </li>
-      <li></li>
-      <li></li>
-      <li></li>
-      </ul>
       </p>
 
       <p>Clustering</p>
@@ -240,10 +228,8 @@ function Note() {
       <li>The issue of single linkage clustering: it make cluster chaining the closest node making unexpected clusters.</li>
       <li>Soft Clustering: clusters are identified via similarity measures which includes distance, connectivity, and intensity.</li>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>data points can potentially belond to multiple clusters.</li>
+          <li>to handle multiple assignments to different clusters, each node has membership grades which indicate the degree to which data points belong to each cluster.</li>
         </ul>
       </ul>
       </p>
