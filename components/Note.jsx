@@ -271,8 +271,8 @@ function Note() {
       <li>Process: finding the center of the cluster, measures the significance of the axis exxpanded from the center.</li>
       <li>Composite feature: taking a two or more features, draw a line of projection, find the corresponding points which are parpendicular to the actual points of features.</li>
       <li>Variance: willingness or flexibility of an algorithm to learn (ML). ! speread of a data distribution. </li>
-      <li></li>
-      <li></li>
+      <li>Measuring significance of dimensions with variance: we can measure the ignificane of dimension using variance. The more varaiance the axis has, the more significant the axis is.</li>
+      <li>Information loss: the mean squared distances from the points in composite dimension from the points in original dimension.</li>
       <li></li>
       <li></li>
       </ul>
