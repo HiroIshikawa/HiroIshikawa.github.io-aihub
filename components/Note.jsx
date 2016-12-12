@@ -226,8 +226,8 @@ function Note() {
       <li>The issue of single linkage clustering: it make cluster chaining the closest node making unexpected clusters.</li>
       <li>Soft Clustering: clusters are identified via similarity measures which includes distance, connectivity, and intensity.</li>
         <ul>
-          <li>data points can potentially belond to multiple clusters.</li>
-          <li>to handle multiple assignments to different clusters, each node has membership grades which indicate the degree to which data points belong to each cluster.</li>
+          <li>data points can potentially belond to multiple clusters.
+          <li>to handle multiple assignments to different clusters, each node has membership grades which indicate the degree to which data points belong to each cluster.
         </ul>
       <li>Maximum Likelihood Gaussian: given samples and parameters, it attempts to maximize the likelihood trying different configucations of parameters for samples.</li>
       <li>Log-Likelihood Estimation: maximize the natural log of the likelihood above. The benefit relies on log's property: strictly increasing function.</li>
