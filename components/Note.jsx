@@ -238,7 +238,13 @@ function Note() {
         <li>repeat n-k times to make k-clusters.</li>
         </ul>
       <li>The issue of single linkage clustering: it make cluster chaining the closest node making unexpected clusters.</li>
-      <li></li>
+      <li>Soft Clustering: clusters are identified via similarity measures which includes distance, connectivity, and intensity.</li>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
       </ul>
       </p>
       
