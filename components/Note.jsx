@@ -229,6 +229,9 @@ function Note() {
           <li>data points can potentially belond to multiple clusters.</li>
           <li>to handle multiple assignments to different clusters, each node has membership grades which indicate the degree to which data points belong to each cluster.</li>
         </ul>
+      <li>Maximum Likelihood Gaussian: given samples and parameters, it attempts to maximize the likelihood trying different configucations of parameters for samples.</li>
+      <li>Log-Likelihood Estimation: maximize the natural log of the likelihood above. The benefit relies on log's property: strictly increasing function.</li>
+      <li></li>
       </ul>
       </p>
       
