@@ -241,6 +241,7 @@ function Note() {
 
       <p>Feature Scaling and Selection</p>
       <p>
+      <ul>
       <li>Min/Max featuer scaling formula: x_new = (x - x_min) / (x_max - x_min)</li>
       <li>Curse of Dimensionality: the more features we add the complexity grows exponentially.</li>
       <li>Reduction of Dimensions: reduce the number of features without loosing the interpretability / the degree of knowledge discovery.</li>
@@ -260,10 +261,21 @@ function Note() {
       <li>Weakly Relevent: if x_i is not strongly relevant and there is a subset of features that adding x_i improves BOC.</li>
       <li>Irrevent: x_i is nether strongly or weakly relevent.</li>
       <li>Usefulness: measurement of the effect of error given particular predicater and algorithms. </li>
+      </ul>
+      </p>
+
+      <p>Principal Component Analysis (PCA)</p>
+      <p>
+      <ul>
+      <li>PCA analyzes the dimensionality of the plots.</li>
+      <li>Process: finding the center of the cluster, measures the significance of the axis exxpanded from the center.</li>
+      <li>Composite feature: taking a two or more features, draw a line of projection, find the corresponding points which are parpendicular to the actual points of features.</li>
+      <li>Variance: willingness or flexibility of an algorithm to learn (ML). ! speread of a data distribution. </li>
       <li></li>
       <li></li>
       <li></li>
       <li></li>
+      </ul>
       </p>
       
       </p>
