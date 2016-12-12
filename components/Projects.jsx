@@ -130,11 +130,18 @@ function Project() {
 			The smartness comes from the heuristic funciton.
 			There are tons of ways to make AI smarter and more efficient.
 		</p>
-		<h2>Functional Programming Language</h2>
+		<h2>State of the Art of Deep Learning: Generative Adversrial Networks (GAN) </h2>
 		<p>
-			I am searching for the good exmaple of functional programming for game AI.
-			The handy list manipulations would be very helpful for developing it.
-			It's capability to handle mathematical manipulations are also interesting point to remark.
+			The most recent revolution happening in the deep learning space is the GAN.
+			Generative model is a model for randomly generating observable data values, typically given some hidden params.
+			It is typical notion that we need more data to feed into training process if you want to build more accurate model.
+			Here the generative model is the constructive way to cover the lack of data to train.
+			It generates data in the most effective way that the model can consume reasonably.
+			For example, in the movie of matrix, the protagonist, Neo, trained himself with virtually created simulation.
+			Even we do not have complete set of the data used for simulation, generative models can generate enough amount.
+			Adversarial network incorporats the generative model with the descripter moedel which constructs the prediction model.
+			The goal of generator is to build virtual data which is indistinguishable from the original available data for descripter.
+			As the descripter learns the model, they becomes sensitive to the tiny differences between the original data and virtually generate data.
 		</p>
     </div>
   );
