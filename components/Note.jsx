@@ -273,6 +273,22 @@ function Note() {
       <li>Variance: willingness or flexibility of an algorithm to learn (ML). ! speread of a data distribution. </li>
       <li>Measuring significance of dimensions with variance: we can measure the ignificane of dimension using variance. The more varaiance the axis has, the more significant the axis is.</li>
       <li>Information loss: the mean squared distances from the points in composite dimension from the points in original dimension.</li>
+      <li>Summary:</li>
+      <li>PCA is a systematic way to transform input features into principal components.</li>
+      <li>Use principal components as new features.</li>
+      <li>Principal comopnents are directions in data that maximize variances (minimize information loss) when you project and compress down onto them.</li>
+      <li>More variance of data along a PC, higher that PC is ranked.</li>
+      <li>Most variance / most information -> first PC, second most..</li>
+      <li>Max number of PCs = max number of input features.</li>
+      </ul>
+      </p>
+
+      <p>Feature Transformation</p>
+      <p>
+      <ul>
+      <li></li>
+      <li></li>
+      <li></li>
       <li></li>
       <li></li>
       </ul>
