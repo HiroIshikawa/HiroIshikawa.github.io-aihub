@@ -286,11 +286,17 @@ function Note() {
       <p>Feature Transformation</p>
       <p>
       <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Difference between feature selection and transformation:</li>
+      <li>Selection: X_1, x_2, x_3, x_4 -> x_1, x_4 (two features)</li>
+      <li>Transformation: x_1, x_2, x_3, x_4 -> 2x_1 + x_4 (one feature: linear combination of the original features)</li>
+      <li>Difference between PCA and ICA (independence composite analysis):</li>
+      <li>PCA: correlation between features, maximizing variance.</li>
+      <li>ICA: independenec between featuers, minimizing interferance between features.</li>
+      <li>Extract hidden variables from observables. Observables in the form of linear combination. Finding independent components from them, which are hidden variables.</li>
+      <li>Properties:</li>
+      <li>PCA: mutually orthogonal, maximal variance, ordered/bag of features.</li>
+      <li>ICA: mutually independent, maximize mutual information, bag of features.</li>
+      <li>Practically, Random Component Analysis works really well. It's fast, simple, and easy.</li>
       </ul>
       </p>
       
