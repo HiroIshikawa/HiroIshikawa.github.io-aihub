@@ -307,8 +307,8 @@ function Note() {
       <li>Classification: accuracy, average precision, f1 score, f1 micro/macro/weighted/samples, log loss, precision, recall, roc auc</li>
       <li>Clustering: adjusted random score</li>
       <li>Regression: mean absolute error, mean squared error, median absolute error, r2 score</li>
-      <li></li>
-      <li></li>
+      <li>Scatter matrix: is great way to grasp the insight of the relationships between features. It maps the plots of all pair of features.</li>
+      <li>Sample value normalization with natural log: is handy when its hard to see pattern in any plots of feature relationships.</li>
       <li></li>
       <li></li>
       </ul>
