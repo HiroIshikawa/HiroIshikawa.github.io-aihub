@@ -309,6 +309,9 @@ function Note() {
       <li>Regression: mean absolute error, mean squared error, median absolute error, r2 score</li>
       <li>Scatter matrix: is great way to grasp the insight of the relationships between features. It maps the plots of all pair of features.</li>
       <li>Sample value normalization with natural log: is handy when its hard to see pattern in any plots of feature relationships.</li>
+      <li>Outliers: less than Q1 - step AND greater than Q3 + step.</li>
+      <li>Q1 and Q3: 25th percentile and 75th percentile.</li>
+      <li>Step: 1.5(Q3-Q1)</li>
       <li></li>
       <li></li>
       </ul>
