@@ -300,6 +300,20 @@ function Note() {
       </ul>
       </p>
       
+      <p>Unsupervised Learning Practice</p>
+      <p>
+      <ul>
+      <li>Classification vs. Clustering vs. Regression: if different, the scoring methods are also different.</li>
+      <li>Classification: accuracy, average precision, f1 score, f1 micro/macro/weighted/samples, log loss, precision, recall, roc auc</li>
+      <li>Clustering: adjusted random score</li>
+      <li>Regression: mean absolute error, mean squared error, median absolute error, r2 score</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ul>
+      </p>
+
       </p>
     </div>
   );
