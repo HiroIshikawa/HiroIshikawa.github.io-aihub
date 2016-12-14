@@ -43,13 +43,13 @@ function Project() {
 		.
 		<br></br>
 		<br></br>
-		We determine to use SURF for real-time object detection with OpenCV. 
+		We considered to use SURF for real-time object detection with OpenCV. 
 		<a href={surfVideoLink} target="_blank"> this video </a>
 		introduces very well about theory and implementation the SURF real-time object detection.
 		.
 		<br></br>
 		<br></br>
-		To find a particular object, we may use Haar-Cascade Classifiers.
+		But, at this point we concluded, in order to find a particular object, to use Haar-Cascade Classifiers.
 		<a href={acRcLink} target="_blank"> This Self Driving RC Car by Zheng Wang </a>
 		explains how to implement real-time object detection with Haar-Cascade Classifiers.
 		More details on how to train the classifier can be found 
