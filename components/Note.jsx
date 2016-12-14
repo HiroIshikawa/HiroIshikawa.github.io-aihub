@@ -316,6 +316,13 @@ function Note() {
       <li>Step: 1.5(Q3-Q1)</li>
       <li>PCA and proportion of variances explaned: <a href={explainedVar} target='_blank'>PCA and proportion of variance explained</a></li>
       <li>Interpreting the result of PCA: <a href={interpretPCA} target='_blank'>refer to this page.</a></li>
+      <li>Practical interpretaiton of PCA:</li>
+      <li>Dimension: (original N features, we extract M principal components) each M dimensions are orthogonal each other.</li>
+      <li>It is practically useful to rank each dimension with the variance scores.</li>
+      <li>The weights of the features of each dimension are the correlations with the variance score of the dimension.</li>
+      <li>When the weight is positive, the feature increases the variance of the dimension.</li>
+      <li>When the weight is negative, the feature decreases the variacne of the dimension.</li>
+      <li></li>
       </ul>
       </p>
 
