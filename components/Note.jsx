@@ -4,7 +4,8 @@ import { Link } from 'react-router';
 function Note() {
   const udacityNdLink = 'https://www.udacity.com/nanodegree';
   const mlGDocNoteLink = 'https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing';
-  const explainedVar = 'http://stats.stackexchange.com/questions/22569/pca-and-proportion-of-variance-explained'
+  const explainedVar = 'http://stats.stackexchange.com/questions/22569/pca-and-proportion-of-variance-explained';
+  const interpretPCA = 'https://onlinecourses.science.psu.edu/stat505/node/54';
 
   return (
     <div>
@@ -314,7 +315,7 @@ function Note() {
       <li>Q1 and Q3: 25th percentile and 75th percentile.</li>
       <li>Step: 1.5(Q3-Q1)</li>
       <li>PCA and proportion of variances explaned: <a href={explainedVar} target='_blank'>PCA and proportion of variance explained</a></li>
-      <li></li>
+      <li>Interpreting the result of PCA: <a href={interpretPCA} target='_blank'>refer to this page.</a></li>
       </ul>
       </p>
 
