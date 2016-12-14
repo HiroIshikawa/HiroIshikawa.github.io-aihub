@@ -313,7 +313,7 @@ function Note() {
       <li>Outliers: less than Q1 - step AND greater than Q3 + step.</li>
       <li>Q1 and Q3: 25th percentile and 75th percentile.</li>
       <li>Step: 1.5(Q3-Q1)</li>
-      <li>PCA and proportion of variances explaned: <a htef={explainedVar} target='_blank'>PCA and proportion of variance explained</a></li>
+      <li>PCA and proportion of variances explaned: <a href={explainedVar} target='_blank'>PCA and proportion of variance explained</a></li>
       <li></li>
       </ul>
       </p>
