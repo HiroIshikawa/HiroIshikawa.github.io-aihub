@@ -4,6 +4,7 @@ import { Link } from 'react-router';
 function Note() {
   const udacityNdLink = 'https://www.udacity.com/nanodegree';
   const mlGDocNoteLink = 'https://docs.google.com/document/d/1gTmQ2BlEUNaJBtbQn0ilKq-KfU64lcE5jRhmROP72ZU/edit?usp=sharing';
+  const explainedVar = 'http://stats.stackexchange.com/questions/22569/pca-and-proportion-of-variance-explained'
 
   return (
     <div>
@@ -271,7 +272,7 @@ function Note() {
       <li>Process: finding the center of the cluster, measures the significance of the axis exxpanded from the center.</li>
       <li>Composite feature: taking a two or more features, draw a line of projection, find the corresponding points which are parpendicular to the actual points of features.</li>
       <li>Variance: willingness or flexibility of an algorithm to learn (ML). ! speread of a data distribution. </li>
-      <li>Measuring significance of dimensions with variance: we can measure the ignificane of dimension using variance. The more varaiance the axis has, the more significant the axis is.</li>
+      <li>Measuring significance of dimensions with variance: we can measure the significance of dimension using variance. The more varaiance the axis has, the more significant the axis is.</li>
       <li>Information loss: the mean squared distances from the points in composite dimension from the points in original dimension.</li>
       <li>Summary:</li>
       <li>PCA is a systematic way to transform input features into principal components.</li>
@@ -312,7 +313,7 @@ function Note() {
       <li>Outliers: less than Q1 - step AND greater than Q3 + step.</li>
       <li>Q1 and Q3: 25th percentile and 75th percentile.</li>
       <li>Step: 1.5(Q3-Q1)</li>
-      <li></li>
+      <li>PCA and explained-variances: <a htef={explainedVar} target='_blank'>PCA and proportion of variance explained</a></li>
       <li></li>
       </ul>
       </p>
