@@ -326,6 +326,25 @@ function Note() {
       </ul>
       </p>
 
+      <p>Reinforcement Learning</p>
+      <p>
+      <ul>
+      <li>Supervised Learning: y = f(x), given x and y, function apprximate function f.</li>
+      <li>Unsupervised Learning: f(x), given x, find clustering or description of f.</li>
+      <li>Reinforcement Learning: y = f(x) and z, given x and z, find f to generate y.</li>
+      <li>Markov Decision Processes: </li>
+      <li>State: S; what the world is.</li>
+      <li>Model: T(s, a, s') ~ Pr(s' | s, a); given state (s) and action (a), produce distribution of new state (s')</li>
+      <li>Actions: A(s), A; action given a state</li>
+      <li>Reward: R(s), R(s, a), R(s, a, s'); any reward given state</li>
+      <li>Policy: Y(s) -> a</li>
+      <li></li>
+      <li></li>
+      <li></li>
+
+      </ul>
+      </p>
+
       </p>
     </div>
   );
