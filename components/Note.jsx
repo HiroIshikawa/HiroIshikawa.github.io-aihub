@@ -338,10 +338,14 @@ function Note() {
       <li>Actions: A(s), A; action given a state</li>
       <li>Reward: R(s), R(s, a), R(s, a, s'); any reward given state</li>
       <li>Policy: Y(s) -> a</li>
+      <li>Markov Decision Problem:</li>
+      <li>The goal of the RL algorithm is to select actions that maximize the expected cumulative reward of the agenet.</li>
       <li></li>
       <li></li>
       <li></li>
-
+      <li></li>
+      <li></li>
+      <li></li>
       </ul>
       </p>
 
