@@ -340,9 +340,9 @@ function Note() {
       <li>Policy: Y(s) -> a</li>
       <li>Markov Decision Problem:</li>
       <li>The goal of the RL algorithm is to select actions that maximize the expected cumulative reward of the agenet.</li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>RL API:</li>
+      <li>Model (T, R) -> Planner -> Policy (Y)</li>
+      <li>Transitions (S, a, r, s') -> Learners -> Policy</li>
       <li></li>
       <li></li>
       <li></li>
