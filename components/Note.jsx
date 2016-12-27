@@ -345,6 +345,9 @@ function Note() {
       <li>Transitions (S, a, r, s') -> Learners -> Policy </li>
       <li>Transitions -> Modeler -> Model</li>
       <li>Model -> Simulator -> Transitions</li>
+      <li>RL-Based Learning: Model -> Simulator -> Transitions -> Learner -> Policy</li>
+      <li>Model-Based Learning: Transitions -> Modeler -> Model -> Planner -> Policy</li>
+      <li></li>
       <li></li>
       </ul>
       </p>
