@@ -338,6 +338,17 @@ function Note() {
       <li>Actions: A(s), A; action given a state</li>
       <li>Reward: R(s), R(s, a), R(s, a, s'); any reward given state</li>
       <li>Policy: Y(s) -> a</li>
+      <li>Delayed Reward: the agent needs to learn how they determine their actions to maximize rewards take place in far future.</li>
+      <li>Infinite Horizon: -> Stationary.</li>
+      <li>Stationary Preference: If we like a sequence of actions today, we like it tomorrow too.</li>
+      <li>When infinite chages allowed, the rewards get infinity. There's no preference on which sequence in this case.</li>
+      <li>But when discount (greater than or equal to 0 and less than 1) is incorporated in reward calculation process, it converges like geometric sereis.</li>
+      <li>Approximation of the sum of rewards with discout: R_max / (1-discount)</li>
+      <li>Discounted -> Geometric</li>
+      <li>Infinite -> Finite</li>
+      <li>Pi* = argmax_Pi E [ for all t, discount^t * R(S_t) | Pi ]</li>
+      <li>R(s): instant/immediate feedback of an action.</li>
+	  <li>U^Pi(s): utility, long-term considered (delayed reward); E [ for all t, discount^t : R(S_t) | Pi, S_0 = S ]</li>
       <li>Markov Decision Problem:</li>
       <li>The goal of the RL algorithm is to select actions that maximize the expected cumulative reward of the agenet.</li>
       <li>RL API:</li>
