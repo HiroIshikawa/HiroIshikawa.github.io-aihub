@@ -366,6 +366,17 @@ function Note() {
       </ul>
       </p>
 
+      <p>Starting Docker under MaxOSX with right permission.</p>
+      <p>
+      <ul>
+      <li>$ docker-machine start # start virtual machine for docker</li>
+      <li>$ docker-machine env  # it's helps to get environment variables</li>
+      <li>$ eval "$(docker-machine env default)" #set environment variables</li>
+      <li></li>
+      <li></li>
+      </ul>
+      </p>
+
       </p>
     </div>
   );
