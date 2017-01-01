@@ -346,9 +346,12 @@ function Note() {
       <li>Approximation of the sum of rewards with discout: R_max / (1-discount)</li>
       <li>Discounted -> Geometric</li>
       <li>Infinite -> Finite</li>
-      <li>Pi* = argmax_Pi E [ for all t, discount^t * R(S_t) | Pi ]</li>
+      <li>Pi* (Optimal Policy) = argmax_Pi E [ for all t, discount^t * R(S_t) | Pi ]</li>
       <li>R(s): instant/immediate feedback of an action.</li>
 	  <li>U^Pi(s): utility, long-term considered (delayed reward); E [ for all t, discount^t : R(S_t) | Pi, S_0 = S ]</li>
+	  <li>Pi^*(s): argmax_a [for all s', T(s,a,s')*U(s')]</li>
+	  <li></li>
+	  <li></li>
       <li>Markov Decision Problem:</li>
       <li>The goal of the RL algorithm is to select actions that maximize the expected cumulative reward of the agenet.</li>
       <li>RL API:</li>
