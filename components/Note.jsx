@@ -377,6 +377,17 @@ function Note() {
       </ul>
       </p>
 
+      <p>Deep Learning</p>
+      <p>
+      <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ul>
+      </p>
+
       </p>
     </div>
   );
