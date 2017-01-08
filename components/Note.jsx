@@ -361,8 +361,6 @@ function Note() {
       <li>Model -> Simulator -> Transitions</li>
       <li>RL-Based Learning: Model -> Simulator -> Transitions -> Learner -> Policy</li>
       <li>Model-Based Learning: Transitions -> Modeler -> Model -> Planner -> Policy</li>
-      <li></li>
-      <li></li>
       </ul>
       </p>
 
@@ -372,19 +370,6 @@ function Note() {
       <li>$ docker-machine start # start virtual machine for docker</li>
       <li>$ docker-machine env  # it's helps to get environment variables</li>
       <li>$ eval "$(docker-machine env default)" #set environment variables</li>
-      <li></li>
-      <li></li>
-      </ul>
-      </p>
-
-      <p>Deep Learning</p>
-      <p>
-      <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
       </ul>
       </p>
 
