@@ -17,7 +17,7 @@ function Home() {
   const twentyOneLink = 'https://21.co/';
   const hxPodLink = 'http://www.hyperxite.com/pod/';
   const podCompeLink = 'http://www.spacex.com/hyperloop';
-  const uciRobotArmLink = 'https://github.com/ucirobotarm/UCI_Robot_Arm';
+  const uciRobotArmLink = 'https://github.com/HiroIshikawa/object-recognizer';
   const hxLink = 'http://www.hyperxite.com/';
   const meLink = 'https://github.com/HiroIshikawa/HiroIshikawa.github.io-me';
 
