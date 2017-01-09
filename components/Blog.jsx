@@ -8,7 +8,6 @@ function Blog() {
   return (
     <div>
     <p>I put the most recent blog entry here. I put archives on Medium.</p>
-    <br></br>
     
     <h2>An Inner Dialog When Things Went Wrong</h2>
     Jan 9, 2017
