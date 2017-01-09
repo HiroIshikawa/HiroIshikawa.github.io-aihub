@@ -10,7 +10,7 @@ function Blog() {
     <p>I put the most recent blog entry here. I put archives on Medium.</p>
     <br></br>
     
-    <h2>A Dialog to Myself When Things Went Wrong</h2>
+    <h2>An Inner Dialog When Things Went Wrong</h2>
     Jan 9, 2017
     <br></br>
     <br></br>
