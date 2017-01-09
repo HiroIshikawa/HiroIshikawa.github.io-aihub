@@ -10,6 +10,7 @@ function Home() {
   const myTwLink = 'https://twitter.com/tk2bit';
   const icsLink = 'https://www.ics.uci.edu/';
   const dmLink = 'https://drivemode.com/';
+  const dmTopSuLink = 'https://twitter.com/Drivemode/status/801953164446441473';
   const dmInstaDcLink = 'https://www.instagram.com/p/4m53p0vB7h/?taken-by=drivemodeapp';
   const mifosPRLink = 'https://github.com/openMF/community-app/pull/1541';
   const mifosXLink = 'http://mifos.org/mifos-x/';
@@ -49,7 +50,9 @@ function Home() {
         <p>
           I am a senior CS student at
           <a href={icsLink} target="_blank"> UC Irvine</a>
-          , previously an intern at Drivemode as 
+          , previously an intern at 
+          <a href={dmTopSuLink} target="_blank"> Drivemode </a>
+          as
           <a href={dmLink} target="_blank"> website developer</a>
           , and as 
           <a href={dmInstaDcLink} target="_blank"> data engineer (a.k.a. data cowboy)</a>
