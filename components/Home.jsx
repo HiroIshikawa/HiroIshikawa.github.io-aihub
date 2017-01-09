@@ -101,11 +101,10 @@ function Home() {
         <br></br>
         <h1>Books</h1>
         <p>
-          I love reading books. As of Nov 16, 2016, I am reading/listening circurately 
+          I love reading books. As of Jan 9, 2017, I am reading/listening
           <ul>
-            <li><a href={warOfArtLink} target="_blank">The War of Art: Winning the Inner Creative Battle by Steven Pressfield</a></li>
-            <li><a href={meditationsLink} target="_blank">Meditations by Marcus Aurelius</a></li>
-            <li><a href={onIntelLink} target="_blank">On Intelligence by Jeff Hawkins, Sandra Blakeslee</a></li>
+            <li><a href="https://www.amazon.com/Why-Evolution-True-Jerry-Coyne/dp/0143116649" target="_blank">Why Evolution is True by Jerry A. Coyne</a></li>
+            <li><a href="https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/0316285064/ref=sr_1_1?s=books&ie=UTF8&qid=1483983377&sr=1-1&keywords=the+seventh+sense" target="_blank">The Seventh Sense by Joshua Cooper Ramo</a></li>
           </ul>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read </a>
