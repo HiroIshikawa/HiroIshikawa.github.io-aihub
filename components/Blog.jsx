@@ -10,8 +10,10 @@ function Blog() {
     <p>I put the most recent blog entry here. I put archives on Medium.</p>
     <br></br>
     
-    <h2>Reflection</h2>
-    <h1>Jan 9, 2017</h1>
+    <h2>A Dialog to Myself When Things Went Wrong</h2>
+    Jan 9, 2017
+    <br></br>
+    <br></br>
     Accept the currents. It is the nature of the universe. You are the part of it and only daily works can impact to it positively. How much you concerns and think about it, it never change. Yes, it is the reality. It happens and is happening. However, that’s just it. Do not get caught by it. You just do what you do. That’s it. All the things happening in your life does not happen for you or against you. It does just happen as it is. It does has no purpose at all. It just happens. When you accept it, how things work is how you act upon it. Your perception and recognition on it itself becomes how it is for you. But again, it just happens as it is and true form of it is completely independent from it. 
     <br></br>
     <br></br>
