@@ -95,11 +95,11 @@ function Home() {
             <li>Wake up at 4:30am, do meditative exercise, take a hydrotherapy shower, eat breakfast.</li>
             <li>Grab a coffee at 5:30am, practice math or algorithms, schedule a day.</li>
             <li>Learn Operation System, Applied Cryotography, or Machine Learning at school.</li>
-            <li>Eat lunch at 12:30pm, review habits and plans.</li>
+            <li>Eat lunch at 12:30pm, review progress so far, and share ideas.</li>
             <li>Work on object recognition system building for a robotics project,</li>
             <li>Work on machine learning + crypto application development, or</li>
             <li>Learn computer vision and deep learning in Udacity's self-driving vehicle nanodegree.</li>
-            <li>Eat dinner at 6:00pm, record progress, and give a feedback to myself.</li>
+            <li>Eat dinner at 6:00pm, review progress so far, and share ideas.</li>
             <li>Read a new book on science, technology, evolution, art, design, or psychology.</li>
             <li>Write a quick summary and thoughts on the reading.</li>
             <li>Update website with any progress on learnings, projects, or readings.</li>
