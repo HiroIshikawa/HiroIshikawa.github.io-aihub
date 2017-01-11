@@ -22,6 +22,9 @@ function Home() {
   const hxLink = 'http://www.hyperxite.com/';
   const meLink = 'https://github.com/HiroIshikawa/HiroIshikawa.github.io-me';
 
+  // deploy
+  const deployBlog = 'https://medium.com/@tk2bit/deploy-d490509408a6#.2rgfu3klq'; 
+
   // Projects
 
   // Books
@@ -108,6 +111,16 @@ function Home() {
             <li>Update website with any progress on learnings, projects, or readings.</li>
             <li>Go to bed at 10am.</li>
             <li>**Low-carb diet and frequent hydration is my productivity strategy.</li>
+          </ul>
+
+          <br></br>
+          <br></br>
+          Living on 
+          <a href={deployBlog} target="_blank"> "Deploy"</a>
+          <ul>
+            <li>Hour of Deploy: build and share something interesting for others within a hour.</li>
+            <li>Deploy Today: state what you build every morning and share it by the end of day.</li>
+            <li>Weekly Showcase: present what you build every week and gain feedback from otheres.</li>
           </ul>
 
           <a></a>
