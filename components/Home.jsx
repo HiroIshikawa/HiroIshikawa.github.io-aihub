@@ -25,18 +25,15 @@ function Home() {
   // deploy
   const deployBlog = 'https://medium.com/@tk2bit/deploy-d490509408a6#.2rgfu3klq'; 
 
-  // Projects
+  const mediumLink = 'https://medium.com/@tk2bit';
 
-  // Books
-  const warOfArtLink = 'https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG';
-  const meditationsLink = 'https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4/ref=sr_1_7?s=digital-text&ie=UTF8&qid=1479982480&sr=1-7&keywords=Meditation';
-  const onIntelLink = 'https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1479982621&sr=1-1&keywords=on+intelligence';
+  const linkedInLink = 'https://www.linkedin.com/in/takahiroishikawa';
 
   const bestBooksLink = 'https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h';
   const readABookEverydayLink = 'https://medium.com/@tk2bit/how-to-read-a-book-everyday-6c02d443011e#.zctt7vpb1';
 
   // Blog
-  const mediumLink = 'https://medium.com/@tk2bit';
+  
   const theDayYouBecomeAGoodWriterLink = 'http://blog.dilbert.com/post/127310496506/the-day-you-became-a-better-writer-2nd-look';
 
   const grammerMistakeLink = 'http://blog.hubspot.com/marketing/common-grammar-mistakes-list#sm.000006f0ciqynnctuq0frvuzsngng';
@@ -51,32 +48,31 @@ function Home() {
         <h2 align="center">Tak Ishikawa</h2>
         <img id="avatar" src="./assets/images/avatar.jpg" align="center"/>        
         <p>
-          I tweet/retweet as
+          Streams of my ideas:
           <a href={myTwLink} target="_blank"> @tk2bit</a>
           .
           <br></br>
-          
-          Please say hi to: hiro52ishikawa@gmail.com
+          Writings on everything: 
+          <a href={mediumLink} target="_blank"> Medium</a>
+          .
+          Dxperiences and projects:
+          <a href={linkedInLink} target="_blank"> LinkedIn</a>
+          .
+          Contact: hiro52ishikawa@gmail.com
           
           <br></br>
           <br></br>
           
           Living on 
           <a href={deployBlog} target="_blank"> "Deploy"</a>
-          <ul>
-            <li>Hour of Deploy: build and share something interesting for others within a hour.</li>
-            <li>Deploy Today: state what you build every morning and share it by the end of day.</li>
-            <li>Weekly Showcase: present what you build every week and gain feedback from otheres.</li>
-          </ul>
 
-          <br></br>
           <br></br>
           
           Current Routine (Jan 2017 -):
           <ul>
             <li>Wake up at 4:30am, do meditative exercise, take a hydrotherapy shower, eat breakfast.</li>
             <li>Grab a coffee at 5:30am, practice math or algorithms, schedule a day.</li>
-            <li>Learn Operation System, Applied Cryotography, or Machine Learning at school.</li>
+            <li>Learn Operation System, or Machine Learning and Data Mining at school.</li>
             <li>Eat lunch at 12:30pm, review progress so far, and share ideas.</li>
             <li>Work on object recognition system building for a robotics project,</li>
             <li>Work on machine learning + crypto application development, or</li>
@@ -86,50 +82,17 @@ function Home() {
             <li>Write a quick summary and thoughts on the reading.</li>
             <li>Update website with any progress on learnings, projects, or readings.</li>
             <li>Go to bed at 10am.</li>
-            <li>**Low-carb diet and frequent hydration is my productivity strategy.</li>
           </ul>
 
           <br></br>
-          <br></br>
 
-          I love reading books. As of Jan 9, 2017, I am reading/listening
-          <ul>
-            <li><a href="https://www.amazon.com/Why-Evolution-True-Jerry-Coyne/dp/0143116649" target="_blank">Why Evolution is True by Jerry A. Coyne</a></li>
-            <li><a href="https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/0316285064/ref=sr_1_1?s=books&ie=UTF8&qid=1483983377&sr=1-1&keywords=the+seventh+sense" target="_blank">The Seventh Sense by Joshua Cooper Ramo</a></li>
-          </ul>
+          I love reading books. As of Jan 9, 2017, I am reading or listening
+          <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> Python Machine Learning by Sebastian Raschka</a>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read </a>
           and 
           <a href={readABookEverydayLink} target="_blank"> share a secret tip to read a book everyday.</a>
-          
-          <br></br>
-          <br></br>
-
-          I archive entries on 
-          <a href={mediumLink} target="_blank"> Medium</a>
-          . 
-          You'll see my thoughts on AI, Crypto, VR/AR, and Education. 
-          <br></br>
-          These all are quick readings.
-          <br></br>
-          <br></br>
-          I am practicing writing simplily. This is motivated by 
-          <a href={theDayYouBecomeAGoodWriterLink} target ="_blank"> an entry by the Dilber's writer, Scott Adams</a>
-          .
-
-          <br></br>
-          <br></br>
-
-          This website is powered by 
-          <a href={reactLink} target="_blank"> React</a>
-          , configured with
-          <a href={reactCreateLink} target="_blank"> react-create</a>
-          , hosted on
-          <a href={ghPagesLink} target="_blank"> Github Pages</a>
-          .
-          <br></br>
-          <a href={reactCreateGhDeploy} target="_blank"> This how to deploy react-create app on Github Pages.</a>
-          
+                    
           <br></br>
         </p>
       </header>
