@@ -23,11 +23,13 @@ function Home() {
   const meLink = 'https://github.com/HiroIshikawa/HiroIshikawa.github.io-me';
 
   // deploy
-  const deployBlog = 'https://medium.com/@tk2bit/deploy-d490509408a6#.2rgfu3klq'; 
+  const githubLink = 'https://github.com/HiroIshikawa';
 
   const mediumLink = 'https://medium.com/@tk2bit';
 
   const linkedInLink = 'https://www.linkedin.com/in/takahiroishikawa';
+
+  const deployBlog = 'https://medium.com/@tk2bit/deploy-d490509408a6#.2rgfu3klq'; 
 
   const bestBooksLink = 'https://medium.com/@tk2bit/reading-list-2263ec754ab4#.pe2d4ps4h';
   const readABookEverydayLink = 'https://medium.com/@tk2bit/how-to-read-a-book-everyday-6c02d443011e#.zctt7vpb1';
@@ -51,6 +53,7 @@ function Home() {
           Codings (GitHub):
           <a href={myTwLink} target="_blank"> @HiroIshikawa</a>
           .
+          <br></br>
           Streams of my ideas (Twitter):
           <a href={myTwLink} target="_blank"> @tk2bit</a>
           .
