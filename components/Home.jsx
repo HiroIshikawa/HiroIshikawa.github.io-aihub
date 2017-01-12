@@ -54,18 +54,26 @@ function Home() {
           <br></br>
           Today, Jan 12, 2017, I am mainly working on script automation of
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> an object recognition system.</a>
+          <br></br>
+          I am also reasearching opportunity in the intersection between blockchain and AI.
+          <br></br>
+          I found "
+          <a href="https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984#.kc1p4qjgc" target="_blank">
+           Blockchains for Artificial Intelligence - From Decentralized Model Exchanges to Model Audit Trails 
+          </a>
+          " is very interesting.
           <br></br> 
           <br></br>
-          Codings:
+          Coding:
           <a href={githubLink} target="_blank"> @HiroIshikawa</a>
           <br></br>
-          Experiences:
+          Experience:
           <a href={linkedInLink} target="_blank"> LinkedIn</a>
           <br></br>
-          Writings: 
+          Writing: 
           <a href={mediumLink} target="_blank"> Medium</a>
           <br></br>
-          Streams:
+          Stream:
           <a href={myTwLink} target="_blank"> @tk2bit</a>
           <br></br>
           Contact: hiro52ishikawa@gmail.com
