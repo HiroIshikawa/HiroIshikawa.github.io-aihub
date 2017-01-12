@@ -54,24 +54,19 @@ function Home() {
           <br></br>
           Today, Jan 12, 2017, I am mainly working on script automation of
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> an object recognition system.</a>
-          .
           <br></br> 
           <br></br>
           Codings:
           <a href={githubLink} target="_blank"> @HiroIshikawa</a>
-          .
           <br></br>
           Experiences:
           <a href={linkedInLink} target="_blank"> LinkedIn</a>
-          .
           <br></br>
           Writings: 
           <a href={mediumLink} target="_blank"> Medium</a>
-          .
           <br></br>
           Streams:
           <a href={myTwLink} target="_blank"> @tk2bit</a>
-          .
           <br></br>
           Contact: hiro52ishikawa@gmail.com
           
