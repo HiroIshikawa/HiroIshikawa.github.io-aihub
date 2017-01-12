@@ -52,16 +52,17 @@ function Home() {
         <p>
           Hi! Welcome to my website!
           <br></br>
+          <br></br>
           Today, Jan 12, 2017, I am mainly working on script automation of
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> an object recognition system.</a>
           <br></br>
-          I am also reasearching opportunity in the intersection between blockchain and AI.
+          Also, I am reasearching opportunity in the intersection between blockchain and AI.
           <br></br>
           I found "
           <a href="https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984#.kc1p4qjgc" target="_blank">
            Blockchains for Artificial Intelligence - From Decentralized Model Exchanges to Model Audit Trails 
           </a>
-          " is very interesting.
+          " very interesting.
           <br></br> 
           <br></br>
           Coding:
