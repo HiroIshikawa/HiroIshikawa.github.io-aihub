@@ -50,20 +50,20 @@ function Home() {
         <h2 align="center">Tak Ishikawa</h2>
         <img id="avatar" src="./assets/images/avatar.jpg" align="center"/>        
         <p>
-          Codings (GitHub):
-          <a href={myTwLink} target="_blank"> @HiroIshikawa</a>
+          Codings:
+          <a href={githubLink} target="_blank"> @HiroIshikawa</a>
           .
           <br></br>
-          Streams of my ideas (Twitter):
-          <a href={myTwLink} target="_blank"> @tk2bit</a>
+          Experiences:
+          <a href={linkedInLink} target="_blank"> LinkedIn</a>
           .
           <br></br>
-          Writings on everything: 
+          Writings: 
           <a href={mediumLink} target="_blank"> Medium</a>
           .
           <br></br>
-          Experiences and projects:
-          <a href={linkedInLink} target="_blank"> LinkedIn</a>
+          Streams:
+          <a href={myTwLink} target="_blank"> @tk2bit</a>
           .
           <br></br>
           Contact: hiro52ishikawa@gmail.com
