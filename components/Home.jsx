@@ -79,7 +79,7 @@ function Home() {
           <br></br>
           <br></br>
           
-          Current Routine (Jan 2017 -):
+          Current Routine (Jan 2017-):
           <ul>
             <li>Wake up at 4:30am, do meditative exercise, take a hydrotherapy shower, eat breakfast.</li>
             <li>Grab a coffee at 5:30am, practice math or algorithms, schedule a day.</li>
@@ -97,7 +97,7 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 9, 2017, I am reading or listening
+          I love reading books. As of Jan 12, 2017, I am reading or listening
           <br></br>
           <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> Python Machine Learning by Sebastian Raschka</a>
           <br></br>
