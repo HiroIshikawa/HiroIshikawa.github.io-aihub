@@ -94,8 +94,21 @@ function Home() {
           .
           <br></br>
           <a href={reactCreateGhDeploy} target="_blank"> This how to deploy react-create app on Github Pages.</a>
+          
           <br></br>
           <br></br>
+          
+          Living on 
+          <a href={deployBlog} target="_blank"> "Deploy"</a>
+          <ul>
+            <li>Hour of Deploy: build and share something interesting for others within a hour.</li>
+            <li>Deploy Today: state what you build every morning and share it by the end of day.</li>
+            <li>Weekly Showcase: present what you build every week and gain feedback from otheres.</li>
+          </ul>
+
+          <br></br>
+          <br></br>
+          
           Current Routine (Jan 2017 -):
           <ul>
             <li>Wake up at 4:30am, do meditative exercise, take a hydrotherapy shower, eat breakfast.</li>
@@ -112,16 +125,7 @@ function Home() {
             <li>Go to bed at 10am.</li>
             <li>**Low-carb diet and frequent hydration is my productivity strategy.</li>
           </ul>
-
-          <br></br>
-          <br></br>
-          Living on 
-          <a href={deployBlog} target="_blank"> "Deploy"</a>
-          <ul>
-            <li>Hour of Deploy: build and share something interesting for others within a hour.</li>
-            <li>Deploy Today: state what you build every morning and share it by the end of day.</li>
-            <li>Weekly Showcase: present what you build every week and gain feedback from otheres.</li>
-          </ul>
+          
 
           <a></a>
         </p>
