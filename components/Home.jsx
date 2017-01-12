@@ -50,6 +50,13 @@ function Home() {
         <h2 align="center">Tak Ishikawa</h2>
         <img id="avatar" src="./assets/images/avatar.jpg" align="center"/>        
         <p>
+          Hi! Welcome to my website!
+          <br></br>
+          Today, Jan 12, 2017, I am mainly working on script automation of
+          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> an object recognition system.</a>
+          .
+          <br></br> 
+          <br></br>
           Codings:
           <a href={githubLink} target="_blank"> @HiroIshikawa</a>
           .
