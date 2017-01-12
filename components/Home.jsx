@@ -75,6 +75,7 @@ function Home() {
           <a href={deployBlog} target="_blank"> "Deploy"</a>
 
           <br></br>
+          <br></br>
           
           Current Routine (Jan 2017 -):
           <ul>
@@ -98,9 +99,9 @@ function Home() {
           <br></br>
           <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> Python Machine Learning by Sebastian Raschka</a>
           <br></br>
-          <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read </a>
-          and 
-          <a href={readABookEverydayLink} target="_blank"> share a secret tip to read a book everyday.</a>
+          <br></br>
+          <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
+        
                     
           <br></br>
         </p>
