@@ -48,16 +48,21 @@ function Home() {
         <h2 align="center">Tak Ishikawa</h2>
         <img id="avatar" src="./assets/images/avatar.jpg" align="center"/>        
         <p>
-          Streams of my ideas:
+          Codings (GitHub):
+          <a href={myTwLink} target="_blank"> @HiroIshikawa</a>
+          .
+          Streams of my ideas (Twitter):
           <a href={myTwLink} target="_blank"> @tk2bit</a>
           .
           <br></br>
           Writings on everything: 
           <a href={mediumLink} target="_blank"> Medium</a>
           .
-          Dxperiences and projects:
+          <br></br>
+          Experiences and projects:
           <a href={linkedInLink} target="_blank"> LinkedIn</a>
           .
+          <br></br>
           Contact: hiro52ishikawa@gmail.com
           
           <br></br>
@@ -87,6 +92,7 @@ function Home() {
           <br></br>
 
           I love reading books. As of Jan 9, 2017, I am reading or listening
+          <br></br>
           <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> Python Machine Learning by Sebastian Raschka</a>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read </a>
