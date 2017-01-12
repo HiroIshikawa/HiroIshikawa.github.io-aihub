@@ -51,49 +51,12 @@ function Home() {
         <h2 align="center">Tak Ishikawa</h2>
         <img id="avatar" src="./assets/images/avatar.jpg" align="center"/>        
         <p>
-          I am a senior CS student at
-          <a href={icsLink} target="_blank"> UC Irvine</a>
-          , previously an intern at 
-          <a href={dmTopSuLink} target="_blank"> Drivemode </a>
-          as
-          <a href={dmLink} target="_blank"> website developer</a>
-          , and as 
-          <a href={dmInstaDcLink} target="_blank"> data engineer (a.k.a. data cowboy)</a>
-          , commited on 
-          <a href={mifosXLink} target="_blank"> MifosX (Fineract) opensource project</a>
-          , built 
-          <a href={instaPhotoLink} target="_blank"> bitcoin apps </a> 
-          on
-          <a href={twentyOneLink} target="_blank"> 21 platform</a>
-          , worked for 
-          <a href={hxPodLink} target="_blank"> controls and telemetry system team in Hyperloop UCI</a>
-          , currently 
-          <a href={uciRobotArmLink} target="_blank"> building object detection application for UCI Robot Arm project</a>
-          , 
-          <a href={hxLink} target="_blank"> managing the website of Hyperloop UCI team</a>
-          , 
-          <Link to="/HiroIshikawa.github.io-me/note"> pursing Machine Learning Engineer Nanodegree program</Link> 
-          , and 
-          <a href={meLink} target="_blank"> maintaining this website</a>
-          .
-          <br></br>
-          <br></br>
           I tweet/retweet as
           <a href={myTwLink} target="_blank"> @tk2bit</a>
           .
           <br></br>
+          
           Please say hi to: hiro52ishikawa@gmail.com
-          <br></br>
-          <br></br>
-          This website is powered by 
-          <a href={reactLink} target="_blank"> React</a>
-          , configured with
-          <a href={reactCreateLink} target="_blank"> react-create</a>
-          , hosted on
-          <a href={ghPagesLink} target="_blank"> Github Pages</a>
-          .
-          <br></br>
-          <a href={reactCreateGhDeploy} target="_blank"> This how to deploy react-create app on Github Pages.</a>
           
           <br></br>
           <br></br>
@@ -125,20 +88,10 @@ function Home() {
             <li>Go to bed at 10am.</li>
             <li>**Low-carb diet and frequent hydration is my productivity strategy.</li>
           </ul>
-          
 
-          <a></a>
-        </p>
-        <br></br>
-        <h1>Projects</h1>
-        <p>
-          I am sharing recent updates including more technical details
-          <Link to="/HiroIshikawa.github.io-me/projects"> in projects page</Link>
-          .
-        </p>
-        <br></br>
-        <h1>Books</h1>
-        <p>
+          <br></br>
+          <br></br>
+
           I love reading books. As of Jan 9, 2017, I am reading/listening
           <ul>
             <li><a href="https://www.amazon.com/Why-Evolution-True-Jerry-Coyne/dp/0143116649" target="_blank">Why Evolution is True by Jerry A. Coyne</a></li>
@@ -148,23 +101,10 @@ function Home() {
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read </a>
           and 
           <a href={readABookEverydayLink} target="_blank"> share a secret tip to read a book everyday.</a>
+          
           <br></br>
           <br></br>
-          I am listing all the books at 
-          <Link to="/HiroIshikawa.github.io-me/books"> books page</Link> 
-          .
-          I format the list in "[Book Title] allows you...".<br></br>
-          I hope this format helps you to find the knowledge you need instantly. 
 
-        </p>
-        <br></br>
-        <h1>Blog</h1>
-        <p>
-          I put the most recent entry at
-          <Link to="/HiroIshikawa.github.io-me/blog"> the blog page</Link> 
-          .
-          <br></br>
-          <br></br>
           I archive entries on 
           <a href={mediumLink} target="_blank"> Medium</a>
           . 
@@ -176,15 +116,21 @@ function Home() {
           I am practicing writing simplily. This is motivated by 
           <a href={theDayYouBecomeAGoodWriterLink} target ="_blank"> an entry by the Dilber's writer, Scott Adams</a>
           .
-        </p>
-        <br></br>
-        <h1>Note</h1>
-        <p>
-          Here, I am leaving a note about anyhting I am learning.
+
           <br></br>
-          If you are interested in, please visit 
-          <Link to="/HiroIshikawa.github.io-me/note"> note page</Link> 
+          <br></br>
+
+          This website is powered by 
+          <a href={reactLink} target="_blank"> React</a>
+          , configured with
+          <a href={reactCreateLink} target="_blank"> react-create</a>
+          , hosted on
+          <a href={ghPagesLink} target="_blank"> Github Pages</a>
           .
+          <br></br>
+          <a href={reactCreateGhDeploy} target="_blank"> This how to deploy react-create app on Github Pages.</a>
+          
+          <br></br>
         </p>
       </header>
     </div>
