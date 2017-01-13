@@ -53,16 +53,8 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 12, 2017, I am mainly working on script automation of
+          Today, Jan 13, 2017, I am mainly working on preconditioning automation of input images for 
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> an object recognition system.</a>
-          <br></br>
-          Also, I am reasearching opportunity in the intersection between blockchain and AI.
-          <br></br>
-          I found "
-          <a href="https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984#.kc1p4qjgc" target="_blank">
-           Blockchains for Artificial Intelligence - From Decentralized Model Exchanges to Model Audit Trails 
-          </a>
-          " very interesting.
           <br></br> 
           <br></br>
           Coding:
@@ -91,13 +83,14 @@ function Home() {
           Current Routine (Jan 2017-):
           <ul>
             <li>Wake up at 4:30am, do meditative exercise, take a hydrotherapy shower, eat breakfast.</li>
-            <li>Grab a coffee at 5:30am, practice math or algorithms, schedule a day.</li>
-            <li>Learn Operation System, or Machine Learning and Data Mining at school.</li>
+            <li>Grab a coffee at 5:30am, practice algorithms, schedule a day.</li>
+            <li>Study Operation System, or Machine Learning and Data Mining at school.</li>
             <li>Eat lunch at 12:30pm, review progress so far, and share ideas.</li>
             <li>Work on object recognition system building for a robotics project,</li>
             <li>Work on machine learning + crypto application development, or</li>
             <li>Learn computer vision and deep learning in Udacity's self-driving vehicle nanodegree.</li>
             <li>Eat dinner at 6:00pm, review progress so far, and share ideas.</li>
+            <li>Keep working.</li>
             <li>Read a new book on science, technology, evolution, art, design, or psychology.</li>
             <li>Write a quick summary and thoughts on the reading.</li>
             <li>Update website with any progress on learnings, projects, or readings.</li>
@@ -106,9 +99,9 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 12, 2017, I am reading or listening
+          I love reading books. As of Jan 13, 2017, I am reading or listening
           <br></br>
-          <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> Python Machine Learning by Sebastian Raschka</a>
+          <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> A Guide to The Good Life, the Ancient Art of Stoic Joy by William B. Irvine</a>
           <br></br>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
