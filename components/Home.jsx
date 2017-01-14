@@ -53,8 +53,9 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 13, 2017, I am mainly working on preconditioning automation of input images for 
-          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> an object recognition system.</a>
+          Today, Jan 14, 2017, I am mainly working on designing machine learning application for family communication.
+          Also, keep updating documentation on key insights to create 
+          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> cascade trainer.</a>
           <br></br> 
           <br></br>
           Coding:
@@ -99,7 +100,7 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 13, 2017, I am reading or listening
+          I love reading books. As of Jan 14, 2017, I am reading or listening
           <br></br>
           <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> A Guide to The Good Life, the Ancient Art of Stoic Joy by William B. Irvine</a>
           <br></br>
