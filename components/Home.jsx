@@ -54,8 +54,8 @@ function Home() {
           <br></br>
           <br></br>
           Today, Jan 15, 2017, I am mainly working on designing and implementing neural nets from scratch.
-          I just shared a post for learning neural nets from scratch as 
-          <a href="https://medium.com/@tk2bit/a-lightning-path-to-understand-neural-networks-nns-1ba32d1b1785#.2swpgsk1e" target="_blank"> a medium post.</a>
+          I just shared a post for learning neural nets from scratch as a medium post
+          <a href="https://medium.com/@tk2bit/a-lightning-path-to-understand-neural-networks-nns-1ba32d1b1785#.2swpgsk1e" target="_blank"> A Lightning Path to Understand Neural Networks (NNs).</a>
           Also, working on the real-time image analysis that allows a robot to 
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> recognize target objects.</a>
           <br></br> 
