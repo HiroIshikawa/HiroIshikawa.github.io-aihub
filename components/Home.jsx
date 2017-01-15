@@ -53,9 +53,9 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 14, 2017, I am mainly working on designing machine learning application for family communication.
-          Also, keep updating documentation on key insights to create 
-          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> cascade trainer.</a>
+          Today, Jan 15, 2017, I am mainly working on designing and implementing neural nets from scratch.
+          Also, working on the real-time image analysis that allows a robot to 
+          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> recognize target objects.</a>
           <br></br> 
           <br></br>
           Coding:
@@ -100,9 +100,9 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 14, 2017, I am reading or listening
+          I love reading books. As of Jan 15, 2017, I am reading or listening
           <br></br>
-          <a href="https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0" target="_blank"> A Guide to The Good Life, the Ancient Art of Stoic Joy by William B. Irvine</a>
+          <a href="https://www.amazon.com/dp/1904838022?tag=sivers-20" target="_blank"> When Cultures Collide - by Richard D. Lewis</a>
           <br></br>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
