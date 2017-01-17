@@ -56,9 +56,10 @@ function Home() {
           Today, Jan 16, 2017, I am mainly working on learning neural nets in depth by implementing them.
           I just shared a post for learning neural nets from scratch as a medium post
           <a href="https://medium.com/@tk2bit/a-lightning-path-to-understand-neural-networks-nns-1ba32d1b1785#.2swpgsk1e" target="_blank"> Learning Neural Networks. </a>
+          Planning "evolving neural nets to GANs step by step" a series of entries in medium. 
           Also, working on implementing information acquistion from image for
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> automous robotics application.</a>
-          <br></br> 
+          <br></br>
           <br></br>
           Coding:
           <a href={githubLink} target="_blank"> @HiroIshikawa</a>
@@ -102,7 +103,7 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 15, 2017, I am reading or listening
+          I love reading books. As of Jan 16, 2017, I am reading or listening
           <br></br>
           <a href="https://www.amazon.com/dp/0887307280?tag=sivers-20" target="_blank"> E-Myth Revisited - by Michael Gerber</a>
           <br></br>
