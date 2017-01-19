@@ -53,7 +53,8 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 17, 2017, I am mainly working on building neural nets with hyperparam configuration. 
+          Today, Jan 18, 2017, I am mainly working on building neural nets with hyperparam configuration. 
+          The first entry focus on making the problem multi-class.
           <br></br>
           <br></br>
           Coding:
@@ -98,7 +99,7 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 17, 2017, I am reading or listening
+          I love reading books. As of Jan 18, 2017, I am reading or listening
           <br></br>
           <a href="https://www.amazon.com/dp/0399532838?tag=sivers-20" target="_blank"> The Smartest Investment Book You'll Ever Read - by Daniel R. Solin</a>
           <br></br>
