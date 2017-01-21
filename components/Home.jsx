@@ -53,11 +53,10 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 19, 2017, I am mainly working on building neural nets with hyperparam configuration. 
-          The first entry focus on making the problem multi-class.
-          Beyond that, I am going to implement the version with multiple hyperparameters such as learning rate.
-          Also, started the first term of self-driving car nanodegree.
-          <br></br>
+          Today, Jan 20, 2017, I am transferring scripts for computer vision on raspberry pi 
+          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> for robot arm project.</a>
+          Working on the first project of self-driving vehicle nanodegree project.
+          <br></br> 
           <br></br>
           Coding:
           <a href={githubLink} target="_blank"> @HiroIshikawa</a>
@@ -101,9 +100,9 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 18, 2017, I am reading or listening
+          I love reading books. As of Jan 20, 2017, I am reading or listening
           <br></br>
-          <a href="" target="_blank"> </a>
+          <a href="https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788" target="_blank"> Tools of Titans Tim Ferris</a>
           <br></br>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
