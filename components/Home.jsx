@@ -53,9 +53,13 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 20, 2017, I am transferring scripts for computer vision on raspberry pi 
-          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> for robot arm project.</a>
-          Working on the first project of self-driving vehicle nanodegree project.
+          Today, Jan 21, 2017, I am mainly working on automation of machine learning modeling.
+          am transferring scripts for computer vision on raspberry pi 
+          Also thinking of the better way to do
+          <a href="http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank"> feature engineering.</a>
+          Finally, working on the cascade trainer for
+          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> robot arm project.</a>
+          Learning how to bulid self-driving vehicle system too.
           <br></br> 
           <br></br>
           Coding:
@@ -100,9 +104,9 @@ function Home() {
 
           <br></br>
 
-          I love reading books. As of Jan 20, 2017, I am reading or listening
+          I love reading books and papers. As of Jan 21, 2017, I am reading or listening
           <br></br>
-          <a href="https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788" target="_blank"> Tools of Titans Tim Ferris</a>
+          <a href="https://arxiv.org/abs/1611.02167" target="_blank"> Designing Neural Network Architectures using Reinforcement Learning</a>
           <br></br>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
