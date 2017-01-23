@@ -53,11 +53,9 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 22, 2017, I am mainly working on the object detection with real-time video feeding.
-          am transferring scripts for computer vision on raspberry pi 
-          Also thinking of the better way to do
-          <a href="http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank"> feature engineering.</a>
-          Finally, working on the cascade trainer for
+          Today, Jan 23, 2017, I am mainly working on the algorihtm solving.
+          Also am working on the first project for the self-driving vehicle nanodgree
+          Finally, working on the smarter way to detect object in real-time for
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> robot arm project.</a>
           <br></br> 
           <br></br>
@@ -86,7 +84,7 @@ function Home() {
           
           Current Routine (Jan 2017-):
           <ul>
-            <li>Wake up at 4:30am, do meditative exercise, take a hydrotherapy shower, eat breakfast.</li>
+            <li>Wake up at 4:30am, do exercise, take a shower, eat breakfast.</li>
             <li>Grab a coffee at 5:30am, practice algorithms, schedule a day.</li>
             <li>Study Operation System, or Machine Learning and Data Mining at school.</li>
             <li>Eat lunch at 12:30pm, review progress so far, and share ideas.</li>
