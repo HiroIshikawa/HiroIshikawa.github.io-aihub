@@ -53,13 +53,12 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 21, 2017, I am mainly working on automation of machine learning modeling.
+          Today, Jan 22, 2017, I am mainly working on the object detection with real-time video feeding.
           am transferring scripts for computer vision on raspberry pi 
           Also thinking of the better way to do
           <a href="http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank"> feature engineering.</a>
           Finally, working on the cascade trainer for
           <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> robot arm project.</a>
-          Learning how to bulid self-driving vehicle system too.
           <br></br> 
           <br></br>
           Coding:
