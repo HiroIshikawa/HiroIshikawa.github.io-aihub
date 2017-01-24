@@ -53,10 +53,14 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 23, 2017, I am mainly working on the algorihtm solving.
-          Also am working on the first project for the self-driving vehicle nanodgree
-          Finally, working on the smarter way to detect object in real-time for
-          <a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank"> robot arm project.</a>
+          Today, Jan 24, 2017, What I am doing:
+          <ul>
+            <li>Implementing neural nets from scratch (from basics).</li>
+            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">integrating object detection to tracking.</a></li>
+            <li>Mark detection.</li>
+          </ul>
+          
+          
           <br></br> 
           <br></br>
           Coding:
