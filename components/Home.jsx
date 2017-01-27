@@ -53,9 +53,9 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 24, 2017, What I am doing:
+          Today, Jan 26, 2017, What I am doing:
           <ul>
-            <li>Submitting the project 1 of the self-driving car nanodegree.</li>
+            <li>Completed the project 1 of the self-driving car nanodegree.</li>
             <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Implementing the object recognition on raspberry pi with camera module.</a></li>
             <li>Wrirting an initial entry of "Grow Neural Nets" series [on learning rate and the size of hidden layers].</li>
           </ul>
