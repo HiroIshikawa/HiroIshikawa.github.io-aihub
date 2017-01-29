@@ -53,10 +53,10 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 27, 2017, What I am doing:
+          Today, Jan 28, 2017, What I am doing:
           <ul>
-            <li>Working on implementing liner regression and cross-validation.</li>
-            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Integrating object recognition.</a></li>
+            <li>Working on the deep learning section of the self-driving car nanodegree.</li>
+            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Setting up a new server for cascade training.</a></li>
             <li>Working on building mini operating system from scratch.</li>
           </ul>
           
@@ -105,9 +105,9 @@ function Home() {
 
           <br></br>
 
-          I love reading books and papers. As of Jan 21, 2017, I am reading or listening
+          I love reading books and papers. As of Jan 28, 2017, I am reading or listening
           <br></br>
-          <a href="https://arxiv.org/abs/1611.02167" target="_blank"> Designing Neural Network Architectures using Reinforcement Learning</a>
+          <a href="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026" target="_blank"> The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield</a>
           <br></br>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
