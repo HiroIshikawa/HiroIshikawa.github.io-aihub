@@ -20,7 +20,7 @@ function Home() {
           <br></br>
           Today, Jan 31, 2017, What I am doing:
           <ul>
-            <li><a href="https://github.com/HiroIshikawa/mini-os-simulator" target="_blank">Workig on buliding simple operating system.</a></li>
+            <li>Workig on buliding simple operating system.</li>
             <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Implementing robust rotation script.</a></li>
           </ul>
           
