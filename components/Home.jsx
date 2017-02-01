@@ -18,10 +18,10 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Jan 31, 2017, What I am doing:
+          Today, Feb 1, 2017, What I am doing:
           <ul>
-            <li>Workig on buliding simple operating system.</li>
-            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Implementing robust rotation script.</a></li>
+            <li>Learning convolutional neural nets.</li>
+            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Better preconditioning for the next casacade training.</a></li>
           </ul>
           
           <br></br>
