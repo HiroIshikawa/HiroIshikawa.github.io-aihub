@@ -18,9 +18,9 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Feb 1, 2017, What I am doing:
+          Today, Feb 6, 2017, What I am doing:
           <ul>
-            <li>Learning convolutional neural nets.</li>
+            <li>Working on implementing linear training.</li>
             <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Better preconditioning for the next casacade training.</a></li>
           </ul>
           
