@@ -18,10 +18,10 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Feb 6, 2017, What I am doing:
+          Today, Feb 10, 2017, What I am doing:
           <ul>
-            <li>Working on implementing linear training.</li>
-            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Better preconditioning for the next casacade training.</a></li>
+            <li>Working on os simulater for different scheduling algorithms.</li>
+            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Raspi configuration for its integration with arduino.</a></li>
           </ul>
           
           <br></br>
@@ -48,28 +48,9 @@ function Home() {
           <br></br>
           <br></br>
           
-          Current Routine (Jan 2017-):
-          <ul>
-            <li>Wake up at 4:30am, do exercise, take a shower, eat breakfast.</li>
-            <li>Grab a coffee at 5:30am, practice algorithms, schedule a day.</li>
-            <li>Study Operation System, or Machine Learning and Data Mining at school.</li>
-            <li>Eat lunch at 12:30pm, review progress so far, and share ideas.</li>
-            <li>Work on object recognition system building for a robotics project,</li>
-            <li>Work on machine learning + crypto application development, or</li>
-            <li>Learn computer vision and deep learning in Udacity's self-driving vehicle nanodegree.</li>
-            <li>Eat dinner at 6:00pm, review progress so far, and share ideas.</li>
-            <li>Keep working.</li>
-            <li>Read a new book on science, technology, evolution, art, design, or psychology.</li>
-            <li>Write a quick summary and thoughts on the reading.</li>
-            <li>Update website with any progress on learnings, projects, or readings.</li>
-            <li>Go to bed at 10am.</li>
-          </ul>
-
+          I love reading books and papers. As of Feb 10, 2017, I am reading or listening
           <br></br>
-
-          I love reading books and papers. As of Jan 31, 2017, I am reading or listening
-          <br></br>
-          <a href="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026" target="_blank"> The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield</a>
+          <a href="https://www.amazon.com/Stuff-Matters-Exploring-Marvelous-Materials/dp/0544483944/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=TV8BAQ0FYB4A90METP3P" target="_blank"> Stuff Matters: Eploring the Marvelous Materials That Shape Our Man-Mande World</a>
           <br></br>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
