@@ -18,10 +18,10 @@ function Home() {
           Hi! Welcome to my website!
           <br></br>
           <br></br>
-          Today, Feb 10, 2017, What I am doing:
+          Today, Feb 17, 2017, What I am doing:
           <ul>
             <li>Working on os simulater for different scheduling algorithms.</li>
-            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Raspi configuration for its integration with arduino.</a></li>
+            <li><a href="https://github.com/HiroIshikawa/object-recognizer" target="_blank">Object detection integrated with robotic arm control system.</a></li>
           </ul>
           
           <br></br>
@@ -48,9 +48,9 @@ function Home() {
           <br></br>
           <br></br>
           
-          I love reading books and papers. As of Feb 10, 2017, I am reading or listening
+          I love reading books and papers. As of Feb 17, 2017, I am reading or listening
           <br></br>
-          <a href="https://www.amazon.com/Stuff-Matters-Exploring-Marvelous-Materials/dp/0544483944/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=TV8BAQ0FYB4A90METP3P" target="_blank"> Stuff Matters: Eploring the Marvelous Materials That Shape Our Man-Mande World</a>
+          <a href="https://www.amazon.com/Language-Truth-Logic-Western-Philosophy/dp/0486200108/ref=sr_1_1?ie=UTF8&qid=1487400731&sr=8-1&keywords=language+truth+and+logic" target="_blank"> Language, Truth and Logic by Alfred J. Ayer, Sir Alfred Jules Ayer</a>
           <br></br>
           <br></br>
           <a href={bestBooksLink} target="_blank">I reviewed impressive books I have read.</a>
